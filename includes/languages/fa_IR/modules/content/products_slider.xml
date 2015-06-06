@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>products_slider_title</key>
+      <value><![CDATA[اسلاید محصولات]]></value>
+      <group>modules-content</group>
+    </definition>
+    <definition>
+      <key>products_slider_new_products_title</key>
+      <value><![CDATA[محصولات جديد]]></value>
+      <group>modules-content</group>
+    </definition>
+    <definition>
+      <key>products_slider_special_products_title</key>
+      <value><![CDATA[محصولات ويژه]]></value>
+      <group>modules-content</group>
+    </definition>
+    <definition>
+      <key>products_slider_best_sellers_title</key>
+      <value><![CDATA[پر فروشترين ها]]></value>
+      <group>modules-content</group>
+    </definition>
+  </definitions>
+</language>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_online_payment_heading</key>
+      <value><![CDATA[پرداخت آنلاین]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

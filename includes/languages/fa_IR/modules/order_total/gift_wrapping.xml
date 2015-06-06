@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>order_total_gift_wrapping_title</key>
+      <value><![CDATA[کادوپيچ سفارش]]></value>
+      <group>modules-order_total</group>
+    </definition>
+    <definition>
+      <key>order_total_gift_wrapping_description</key>
+      <value><![CDATA[کادوپيچ سفارش]]></value>
+      <group>modules-order_total</group>
+    </definition>
+    <definition>
+      <key>gift_wrapping_heading</key>
+      <value><![CDATA[کادوپیچ شود؟]]></value>
+      <group>modules-order_total</group>
+    </definition>
+    <definition>
+      <key>gift_wrapping_heading_comment</key>
+      <value><![CDATA[افزودن توضیح در مورد کادوپیچ]]></value>
+      <group>modules-order_total</group>
+    </definition>	
+    <definition>
+      <key>gift_wrapping_description</key>
+      <value><![CDATA[این سفارش هدیه است و تمایل دارم سفارشم کادوپیچ شود. (این درخواست %s هزینه دارد)]]></value>
+      <group>modules-order_total</group>
+    </definition>
+  </definitions>
+</language>

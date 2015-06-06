@@ -1,0 +1,4009 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <data>
+    <title><![CDATA[Persian]]></title>
+    <code><![CDATA[fa_IR]]></code>
+    <locale><![CDATA[fa_IR.UTF-8,fa_IR,persian]]></locale>
+    <character_set><![CDATA[utf-8]]></character_set>
+    <text_direction><![CDATA[rtl]]></text_direction>
+    <date_format_short><![CDATA[%y/%m/%d]]></date_format_short>
+    <date_format_long><![CDATA[%A %d %B %Y]]></date_format_long>
+    <time_format><![CDATA[%H:%M:%S]]></time_format>
+    <default_currency><![CDATA[IRR]]></default_currency>
+    <numerical_decimal_separator><![CDATA[.]]></numerical_decimal_separator>
+    <numerical_thousands_separator><![CDATA[,]]></numerical_thousands_separator>
+    <parent_language_code><![CDATA[0]]></parent_language_code>
+  </data>
+  <definitions>
+    <definition>
+      <key>home</key>
+      <value><![CDATA[صفحه اصلي]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>specials</key>
+      <value><![CDATA[فروش ویژه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>special_products</key>
+      <value><![CDATA[محصولات ويژه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>new_products</key>
+      <value><![CDATA[محصولات جديد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>feature_products</key>
+      <value><![CDATA[محصولات پیشنهادی]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>contact_us</key>
+      <value><![CDATA[ارتباط با ما]]></value>
+      <group>general</group>
+    </definition>
+     <definition>
+      <key>db_connection_failed</key>
+      <value><![CDATA[خطای پایگاه داده : امکان ارتباط با پایگاه داده وجود ندارد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>enter_captcha_code</key>
+      <value><![CDATA[کد تصویر امنیتی:]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>guest_book</key>
+      <value><![CDATA[کتاب مهمان]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>my_account</key>
+      <value><![CDATA[حساب کاربري]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>my_wishlist</key>
+      <value><![CDATA[محصولات مورد علاقه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>login</key>
+      <value><![CDATA[ورود]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>logoff</key>
+      <value><![CDATA[خروج]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>create_account</key>
+      <value><![CDATA[ايجاد حساب کاربري]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>cart_contents</key>
+      <value><![CDATA[محتويات سبد خريد]]></value>
+      <group>general</group>
+    </definition>
+	<definition>
+      <key>more_info</key>
+      <value><![CDATA[اطلاعات بيشتر]]></value>
+      <group>general</group>
+    </definition>
+	<definition>
+      <key>cart_product_quantity</key>
+      <value><![CDATA[تعداد: ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>save_cart_status_success</key>
+      <value><![CDATA[وضعيت ماژول blockcart در کوکي ثبت شد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>no_cart_status_setted</key>
+      <value><![CDATA[خطا : وضعيتي تنظيم نشده است]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_no_shipping_flat_url</key>
+      <value><![CDATA[اطلاعات پيگيري در حال حاضر در دسترس نمي باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>table_heading_carrier</key>
+      <value><![CDATA[حمل کننده :]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>table_heading_track_number</key>
+      <value><![CDATA[شماره پيگيري :]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>table_heading_track</key>
+      <value><![CDATA[پيگيري :]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>table_heading_error</key>
+      <value><![CDATA[خطا :]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_track_your_order</key>
+      <value><![CDATA[پيگيري سفارش شما]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>heading_title_order_track_infomation</key>
+      <value><![CDATA[اطلاعات پيگيري]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>save_cart_status_error</key>
+      <value><![CDATA[خطا : وضعيت نادرست تنظيم شده است. تنها بستن و بازکردن در ماژول blockcart فعال است.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_guestbook_title_error</key>
+      <value><![CDATA[خطا : لطفا عنواني براي پيام خود وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_guestbook_email_error</key>
+      <value><![CDATA[خطا : لطفا يک آدرس ايميل صحيح وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_guestbook_content_error</key>
+      <value><![CDATA[خطا : لطفا متن پيام را وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_guestbook_verify_code_error</key>
+      <value><![CDATA[خطا : لطفا کد امنيتي صحيح را وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_guestbook_no_records</key>
+      <value><![CDATA[هیچ پیامی برای نمایش وجود ندارد.]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>success_guestbook_saved</key>
+      <value><![CDATA[پيام با موفقيت ذخيره شد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>verification_info_note</key>
+      <value><![CDATA[لطفا متن تصویر امنیتی را در کادر وارد نمایید.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>checkout</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_top</key>
+      <value><![CDATA[صفحه اصلي]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shop</key>
+      <value><![CDATA[فروشگاه آنلاين]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>bookmark</key>
+      <value><![CDATA[علاقه مندي ها]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>text_items</key>
+      <value><![CDATA[مورد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_in</key>
+      <value><![CDATA[ورود]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>sign_out</key>
+      <value><![CDATA[خروج]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_male</key>
+      <value><![CDATA[مذکر]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>gender_female</key>
+      <value><![CDATA[مونث]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>close</key>
+      <value><![CDATA[بستن]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>pull_down_default</key>
+      <value><![CDATA[--انتخاب--]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>admin_logout</key>
+      <value><![CDATA[خروج مدير]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_username</key>
+      <value><![CDATA[نام کاربري:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_password</key>
+      <value><![CDATA[کلمه عبور:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_login</key>
+      <value><![CDATA[ورود]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>introduction_maintenance_mode_text</key>
+      <value><![CDATA[ضمن عرض پوزش ، اين ويسايت به منظور بررسي فني غير فعال است. لطفا بعدا مراجعه نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_admin_login_no_match</key>
+      <value><![CDATA[مورد قابل تطبيقي براي نام کاربري و کلمه عبور پيدا نشد. لطفا مجددا تلاش نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error</key>
+      <value><![CDATA[هنگام پردازش درخواست شما اشکالاتي رخ داد.\n\nلطفا موارد ذيل را اصلاح نمايد:\n\n]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>js_error_already_submitted</key>
+      <value><![CDATA[این درخواست قبلا ارسال شده است. لطفا کلید تایید را جهت تکمیل روند این درخواست فشار دهید.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_download_max_num_of_days</key>
+      <value><![CDATA[شما حداکثر ميزان دانلود در طول روز خود را مصرف نموده ايد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_download_max_num_of_times</key>
+      <value><![CDATA[شما حداکثر تعداد دانلود خود را مصرف نموده ايد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_download_file_not_exist</key>
+      <value><![CDATA[فايل درخواستي وجود ندارد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>products</key>
+      <value><![CDATA[محصولات]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value><![CDATA[ارسال]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>total</key>
+      <value><![CDATA[جمع]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>product</key>
+      <value><![CDATA[محصول]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>No products</key>
+      <value><![CDATA[بدون محصول]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>form_required_information</key>
+      <value><![CDATA[* حتما بايد پر شوند]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_current_page</key>
+      <value><![CDATA[صفحه %s از %d]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_products</key>
+      <value><![CDATA[نمایش <b>%d</b> تا <b>%d</b> (از <b>%d</b> محصول)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_orders</key>
+      <value><![CDATA[نمایش <b>%d</b> تا <b>%d</b> (از <b>%d</b> سفارش)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_orders_returns</key>
+      <value><![CDATA[نمایش <b>%d</b> تا <b>%d</b> (از <b>%d</b> عودت سفارشات)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_reviews</key>
+      <value><![CDATA[نمایش <b>%d</b> تا <b>%d</b> (از <b>%d</b> نظر)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_articles</key>
+      <value><![CDATA[نمایش <b>%d</b> تا <b>%d</b> (از <b>%d</b> مقاله)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_previous_page</key>
+      <value><![CDATA[[&lt;&lt;&nbsp; قبلي]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>result_set_next_page</key>
+      <value><![CDATA[[بعدي &nbsp;&gt;&gt;]]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_address</key>
+      <value><![CDATA[افزودن آدرس]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_back</key>
+      <value><![CDATA[برگشت]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_buy_now</key>
+      <value><![CDATA[خريد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_write_message</key>
+      <value><![CDATA[نوشتن پيام]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_read_more</key>
+      <value><![CDATA[اطلاعات بيشتر]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_get_more</key>
+      <value><![CDATA[نتایج بیشتر]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>button_add</key>
+      <value><![CDATA[افزودن]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_clear</key>
+      <value><![CDATA[پاک کردن]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_compare_now</key>
+      <value><![CDATA[مقايسه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>add_to_cart_confirmation</key>
+      <value><![CDATA[%s به سبد خرید افزوده شد!]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>add_to_wishlist</key>
+      <value><![CDATA[افزودن به لیست مورد علاقه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>add_to_compare</key>
+      <value><![CDATA[افزودن به ليست مقايسه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>print</key>
+      <value><![CDATA[چاپ کردن]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_change_address</key>
+      <value><![CDATA[تغيير آدرس]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_checkout</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_confirm_order</key>
+      <value><![CDATA[تاييد سفارش]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_continue</key>
+      <value><![CDATA[ادامه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>submit_reviews</key>
+      <value><![CDATA[ارسال نظر]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_delete</key>
+      <value><![CDATA[حذف]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_edit</key>
+      <value><![CDATA[ويرايش]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_view</key>
+      <value><![CDATA[مشاهده]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_print</key>
+      <value><![CDATA[چاپ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_return</key>
+      <value><![CDATA[عودت سفارش]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>button_sign_in</key>
+      <value><![CDATA[ورود]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_add_to_cart</key>
+      <value><![CDATA[افزودن به سبد خريد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_cart</key>
+      <value><![CDATA[سبد خرید]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>button_reviews</key>
+      <value><![CDATA[نظرات]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_search</key>
+      <value><![CDATA[جستجو]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_update_cart</key>
+      <value><![CDATA[بروز رساني سبد خريد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_continue_shopping</key>
+      <value><![CDATA[ادامه خريد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_write_review</key>
+      <value><![CDATA[نوشتن نظر]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_result</key>
+      <value><![CDATA[نتيجه]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>button_vote</key>
+      <value><![CDATA[نظر]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>icon_in_cart</key>
+      <value><![CDATA[افزودن به سبد خريد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>tax_rate_unknown</key>
+      <value><![CDATA[نرخ ماليات نامشخص]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>footer</key>
+      <value><![CDATA[کپی رایت &copy; %s  <a href="%s">%s</a><br /> قدرت یافته توسط <a href="http://www.tomatocart.com" target="_blank"> تومیتوکارت</a><a href="http://www.tomatoshop.ir" target="_blank"> پارسی</a>]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>rss_heading</key>
+      <value><![CDATA[RSS]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>rss_categories</key>
+      <value><![CDATA[شاخه ها]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>index_heading</key>
+      <value><![CDATA[به %s خوش آمديد!]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>index_text</key>
+      <value><![CDATA[این نصب پیش فرض سیستم فروشگاه ساز اینترنتی تومیتوکارت  (TomatoCart)  است ، محصولا نمایش داده فقط به منظور آزمایش سیستم ثبت شده است. <b> هیچکدام از کالاهای سفارش داده شده تحویل داده نخواهد شد و مشتری نباید وجه آن را پرداخت نماید</b> تمامی اطلاعات مربوط به کالاها نیز ساختگی می باشد.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_image_heading</key>
+      <value><![CDATA[تصوير]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_sku_heading</key>
+      <value><![CDATA[شماره انبارداري]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_products_heading</key>
+      <value><![CDATA[محصولات]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_manufacturer_heading</key>
+      <value><![CDATA[سازنده]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_quantity_heading</key>
+      <value><![CDATA[مقدار]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_price_heading</key>
+      <value><![CDATA[مبلغ]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_weight_heading</key>
+      <value><![CDATA[وزن]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_buy_now_heading</key>
+      <value><![CDATA[خريد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>products_attributes_filter</key>
+      <value><![CDATA[صفات محصولات]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>section_heading_products_attachments</key>
+      <value><![CDATA[پيوست]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>section_heading_products_accessories</key>
+      <value><![CDATA[لوازم]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>no_products_in_category</key>
+      <value><![CDATA[محصولي در اين شاخه وجود ندارد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_show</key>
+      <value><![CDATA[نمايش:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_categories</key>
+      <value><![CDATA[همه شاخه ها]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>close_panel</key>
+      <value><![CDATA[بستن کادر]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>hello_guest</key>
+      <value><![CDATA[خوش آمديد کاربر مهمان!]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>register</key>
+      <value><![CDATA[ثبت نام]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>welcome</key>
+      <value><![CDATA[خوش آمديد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>filter_all_manufacturers</key>
+      <value><![CDATA[همه سازندگان]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>greeting_guest</key>
+      <value><![CDATA[خوش آمدید ! <a href="%s">وارد سایت شوید</a> و محصولات <a href="%s">جدید</a> بعد از آخرین بازدیدتان را مشاهده نمایید.]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>greeting_customer</key>
+      <value><![CDATA[خوش آمدید %s! سری به  <a href="%s">محصولات جدید</a>  بزنید تا محصولات جديد ما را مشاهده نماييد!]]></value>
+      <group>index</group>
+    </definition>
+    <definition>
+      <key>listing_sort_ascendingly</key>
+      <value><![CDATA[چيدن صعودي %s]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>listing_sort_descendingly</key>
+      <value><![CDATA[چيدن نزولي %s]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>wishlist_title</key>
+      <value><![CDATA[محصولات مورد علاقه من]]></value>
+      <group>general</group>
+    </definition>
+     <definition>
+      <key>field_create_account_captcha_check_error</key>
+      <value><![CDATA[خطا : کد امنیتی به درستی وارد نشده است ، لطفا مجددا سعی کنید.]]></value>
+      <group>account</group>
+    </definition>	
+    <definition>
+      <key>share_your_wishlist_title</key>
+      <value><![CDATA[اشتراک گذاري محصولات مورد علاقه شما]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_customer_name</key>
+      <value><![CDATA[نام شما:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_customer_email</key>
+      <value><![CDATA[آدرس ايميل شما:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_emails</key>
+      <value><![CDATA[ایمیل ها :(با کاما جدا نمایید)]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_message</key>
+      <value><![CDATA[پيام:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_customer_name_error</key>
+      <value><![CDATA[لطفا نام خود را ذکر نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_customer_email_error</key>
+      <value><![CDATA[لطفا آدرس ايميل خود را ذکر نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_emails_error</key>
+      <value><![CDATA[لطفا آدرس ايميل دوستانتان را وارد نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_share_wishlist_message_error</key>
+      <value><![CDATA[لطفا پيام خود را وارد نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>listing_comments_heading</key>
+      <value><![CDATA[توضيحات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>listing_date_added_heading</key>
+      <value><![CDATA[تاريخ افزودن]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_wishlist_entry_deleted</key>
+      <value><![CDATA[محصول انتخاب شده با موفقيت از محصولات مورد علاقه شما حذف گرديد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_wishlist_entry_updated</key>
+      <value><![CDATA[محصولات مورد علاقه شما با موفقيت بروز شد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_share_wishlist_email_sent</key>
+      <value><![CDATA[محصولات مورد علاقه شما با موفقيت براي دوستانتان ارسال گرديد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_wishlist_product_existed</key>
+      <value><![CDATA[خطا : این محصول در حال حاضر در لیست محصولات مورد علاقه موجود است.]]></value>
+      <group>account</group>
+    </definition>	
+    <definition>
+      <key>wishlist_empty</key>
+      <value><![CDATA[محصولی در لیست مورد علاقه شما وجود ندارد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_in</key>
+      <value><![CDATA[ورود]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sign_out</key>
+      <value><![CDATA[خروج]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_account</key>
+      <value><![CDATA[حساب کاربري]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_account</key>
+      <value><![CDATA[ويرايش اطلاعات حساب]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_edit_password</key>
+      <value><![CDATA[تغيير کلمه عبور]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_my_orders</key>
+      <value><![CDATA[سفارشات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_order_information</key>
+      <value><![CDATA[سفارش #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_newsletters</key>
+      <value><![CDATA[خبرنامه]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_notifications</key>
+      <value><![CDATA[اطلاعيه ها]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book</key>
+      <value><![CDATA[کتابچه آدرس ها]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_wishlist</key>
+      <value><![CDATA[محصولات مورد علاقه من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_add_entry</key>
+      <value><![CDATA[افزودن]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_edit_entry</key>
+      <value><![CDATA[ويرايش]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_address_book_delete_entry</key>
+      <value><![CDATA[حذف]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_create_account</key>
+      <value><![CDATA[ايجاد حساب کاربري]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_password_forgotten</key>
+      <value><![CDATA[فراموشي کلمه عبور]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_in_heading</key>
+      <value><![CDATA[خوش آمديد ، لطفا وارد شويد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>sign_out_heading</key>
+      <value><![CDATA[از حساب کاربري خود خارج شديد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>wishlist_heading</key>
+      <value><![CDATA[محصولات مورد علاقه من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_heading</key>
+      <value><![CDATA[حساب کاربري]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_edit_heading</key>
+      <value><![CDATA[اطلاعات حساب من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>account_password_heading</key>
+      <value><![CDATA[کلمه عبور حساب من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_heading</key>
+      <value><![CDATA[سفارشات من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_information_heading</key>
+      <value><![CDATA[سفارش #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>return_slip_heading_title</key>
+      <value><![CDATA[عودت سفارشات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_return_id</key>
+      <value><![CDATA[شماره عودت:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_return_date</key>
+      <value><![CDATA[تاريخ عودت:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_order_id</key>
+      <value><![CDATA[شماره سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_order_date</key>
+      <value><![CDATA[تاريخ سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_comments</key>
+      <value><![CDATA[توضيح:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>heading_products_name</key>
+      <value><![CDATA[نام محصول]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>heading_products_quantity</key>
+      <value><![CDATA[مقدار]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_reminder</key>
+      <value><![CDATA[يادآوري:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>return_slip_reminder</key>
+      <value><![CDATA[- محصولات در بسته یندی اصلی و بدون خوردگی و صدمه عودت داده شود.<br />- لطفا این برگه عودت را چاپ نموده و بر روی سفارش عودتی بچسبانید.<br />- در صورتیکه محتویات بسته با موارد نوشته شده در برگه عودت روی آن یکسان نباشد ، ما از پذیرفتن سفارش خودداری می کنیم.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>credit_slip_heading_title</key>
+      <value><![CDATA[مدرک استرداد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>pdf_order_heading_title</key>
+      <value><![CDATA[سفارش]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>pdf_invoice_heading_title</key>
+      <value><![CDATA[فاکتور]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_invoice_number</key>
+      <value><![CDATA[شماره فاکتور:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_invoice_date</key>
+      <value><![CDATA[تاريخ فاکتور:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_credit_slip_id</key>
+      <value><![CDATA[شماره مدرک استرداد:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>operation_heading_credit_slip_date</key>
+      <value><![CDATA[تاريخ ايجاد:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>heading_products_price</key>
+      <value><![CDATA[مبلغ]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>heading_products_total</key>
+      <value><![CDATA[جمع]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>refund_sub_total</key>
+      <value><![CDATA[زير جمع:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>refund_shipping</key>
+      <value><![CDATA[ارسال:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>refund_handling</key>
+      <value><![CDATA[جابجايي:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>refund_total</key>
+      <value><![CDATA[جمع استرداد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>credit_slips_heading</key>
+      <value><![CDATA[مدرک استرداد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>credit_slip_number</key>
+      <value><![CDATA[شماره مدرک استرداد:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>date_added</key>
+      <value><![CDATA[تاريخ افزودن:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_returns_heading</key>
+      <value><![CDATA[درخواست هاي عودت]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_returns_information_heading</key>
+      <value><![CDATA[عودت اقلامي از سفارش شماره #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_return_comments</key>
+      <value><![CDATA[توضيح براي اقلام عودتي:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_quantity_for_return_product</key>
+      <value><![CDATA[لطفا مقدار %s را تعيين نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_return_comments_empty</key>
+      <value><![CDATA[لطفا توضيحي براي موارد عودتي وارد نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_return_items_empty</key>
+      <value><![CDATA[حداقل يک محصول براي عودت انتخاب نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_products_available_for_return</key>
+      <value><![CDATA[محصولي براي عودت وجود ندارد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_return_number</key>
+      <value><![CDATA[شماره عودت:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_return_date_added</key>
+      <value><![CDATA[تاريخ افزودن:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_return_products</key>
+      <value><![CDATA[محصولات:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_return_comments</key>
+      <value><![CDATA[توضيح:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletters_heading</key>
+      <value><![CDATA[اشتراک خبرنامه ها]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>notifications_heading</key>
+      <value><![CDATA[اطلاعيه هاي محصولات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_heading</key>
+      <value><![CDATA[کتابچه آدرس]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_add_entry_heading</key>
+      <value><![CDATA[ايجاد آدرس جديد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_edit_entry_heading</key>
+      <value><![CDATA[ويرايش آدرس]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_entry_heading</key>
+      <value><![CDATA[حذف آدرس]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_heading</key>
+      <value><![CDATA[ايجاد حساب کاربري]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_success_heading</key>
+      <value><![CDATA[حساب کاربري شما ايجاد شد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_heading</key>
+      <value><![CDATA[مشتري جديد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_new_customer_text</key>
+      <value><![CDATA[مشتري جديد هستم!<br /><br />با ايجاد حساب كاربري در فروشگاه  قادر خواهيد بود تا سريع‌تر خريد خود را انجام دهيد، وضعيت سفارش‌هاي خود را زير نظر بگيريد و سفارش‌هاي پيشين را مرور كنيد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_heading</key>
+      <value><![CDATA[مشتري فروشگاه هستم!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_text</key>
+      <value><![CDATA[من مشتري فروشگاه هستم و در فروشگاه حساب دارم.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>login_returning_customer_password_forgotten</key>
+      <value><![CDATA[فراموشي کلمه عبور؟ <a href="%s">اينجا کليک نماييد</a>]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_login_no_match</key>
+      <value><![CDATA[خطا : نام کاربري يا کلمه عبور غير معتبر مي باشد. مجددا تلاش نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_login_status_disabled</key>
+      <value><![CDATA[حساب کاربري شما غير فعال شده است. با مدير فروشگاه تماس بگيريد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>guest</key>
+      <value><![CDATA[عضو نيستيد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>lost_password</key>
+      <value><![CDATA[فراموشي کلمه عبور]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>register_success</key>
+      <value><![CDATA[ثبت نام با موفقيت انجام شد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>date_added_to_shopping_cart</key>
+      <value><![CDATA[تاريخ افزودن : %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>sign_out_text</key>
+      <value><![CDATA[شما با موفقیت از حساب خود خارج شدید. محتویات سبد خرید شما ذخیره شد و در ورودهای بعدی شما قابل دسترسی خواهد بود.<br /><br />می توانید از فروشگاه خارج شود.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_title</key>
+      <value><![CDATA[حساب کاربري]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>guestbook_heading</key>
+      <value><![CDATA[کتاب مهمان]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_guestbook</key>
+      <value><![CDATA[کتاب مهمان]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>guestbook_new_heading</key>
+      <value><![CDATA[پيام جديد]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>field_title</key>
+      <value><![CDATA[عنوان:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>field_email</key>
+      <value><![CDATA[ايميل:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>field_url</key>
+      <value><![CDATA[آدرس سايت:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>field_content</key>
+      <value><![CDATA[محتوا:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>field_image_verification</key>
+      <value><![CDATA[تصوير امنيتي:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>information_title</key>
+      <value><![CDATA[اطلاعات]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_article_categories_heading</key>
+      <value><![CDATA[مقالات]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_faqs_heading</key>
+      <value><![CDATA[سوالات رايج]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_not_found_heading</key>
+      <value><![CDATA[اطلاعات پيدا نشد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_not_found</key>
+      <value><![CDATA[اطلاعات درخواستي پيدا نشد!]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>no_article_in_this_category </key>
+      <value><![CDATA[در حال حاضر مقاله اي در اين شاخه وجود ندارد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>my_account_information</key>
+      <value><![CDATA[مشاهده يا تغيير اطلاعات کاربري]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_address_book</key>
+      <value><![CDATA[مشاهده يا تغيير آدرس ها در کتابچه آدرس]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_account_password</key>
+      <value><![CDATA[تغیير کلمه عبور]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_wishlist_title</key>
+      <value><![CDATA[محصولات مورد علاقه من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_wishlist_view</key>
+      <value><![CDATA[مشاهده محصولات در محصولات مورد علاقه من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_title</key>
+      <value><![CDATA[سفارشات من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_return_view</key>
+      <value><![CDATA[مشاهده درخواست هاي عودت ايجاد شده براي سفارشات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_orders_returns_made_yet</key>
+      <value><![CDATA[هيچ درخواست عودتي وجود ندارد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>credit_slips</key>
+      <value><![CDATA[چاپ مدرک استرداد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>orders_id</key>
+      <value><![CDATA[شماره سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_credit_slips</key>
+      <value><![CDATA[هيچ مدرک استرداد وجهي وجود ندارد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>result_set_number_of_credit_slips</key>
+      <value><![CDATA[نمایش <b>%d</b> تا <b>%d</b> (از <b>%d</b> مدرک استرداد)]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_credit_slips_view</key>
+      <value><![CDATA[مشاهده سوابق مدارک استرداد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_orders_view</key>
+      <value><![CDATA[مشاهده سفارشات ايجاد شده من.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_title</key>
+      <value><![CDATA[اطلاعيه هاي من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_newsletters</key>
+      <value><![CDATA[عضويت و لغو عضويت در خبرنامه ها]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_notifications_products</key>
+      <value><![CDATA[مشاهده و تغيير اطلاعيه هاي محصولات من.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>my_password_title</key>
+      <value><![CDATA[کلمه عبور من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number</key>
+      <value><![CDATA[شماره سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_status</key>
+      <value><![CDATA[وضعيت سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>return_status</key>
+      <value><![CDATA[وضعيت:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date</key>
+      <value><![CDATA[تاريخ سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_shipped_to</key>
+      <value><![CDATA[ارسال به:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_billed_to</key>
+      <value><![CDATA[ارسال صورتحساب به:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_products</key>
+      <value><![CDATA[محصولات:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_cost</key>
+      <value><![CDATA[هزينه سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>no_orders_made_yet</key>
+      <value><![CDATA[شما هيچ خريدي انجام نداده ايد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_number_heading</key>
+      <value><![CDATA[سفارش #%s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_date_heading</key>
+      <value><![CDATA[تاريخ سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_total_heading</key>
+      <value><![CDATA[جمع سفارش:]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_file</key>
+      <value><![CDATA[دانلود فايل]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>gift_wrapping_message_heading</key>
+      <value><![CDATA[متن کادوپيچ هديه]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>order_history_heading</key>
+      <value><![CDATA[تاريخچه سفارش]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_heading</key>
+      <value><![CDATA[لينک دانلود]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_link_expires</key>
+      <value><![CDATA[لينک در تاريخ %s باطل مي شود.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>download_counter_remaining</key>
+      <value><![CDATA[باقيمانده دانلود]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_subscriptions_heading</key>
+      <value><![CDATA[اشتراک هاي خبرنامه من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general</key>
+      <value><![CDATA[خبرنامه عمومي]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_general_description</key>
+      <value><![CDATA[شامل اخبار فروشگاه ، محصولات جديد ، پيشنهادات ويژه و ساير اطلاعيه ها]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications</key>
+      <value><![CDATA[اطلاعيه هاي محصولات من]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_description</key>
+      <value><![CDATA[اطلاعیه محصولات باعث خواهد شد شما هر تغییر در محصولات را سریعا باخبر شوید.<br /><br />برای اطلاع از تغییر محصولات<b> اطلاعیه عمومی محصولات</b>. را انتخاب نمایید.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_global</key>
+      <value><![CDATA[اطلاعيه عمومي محصولات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>
+        newsletter_product_notifications_global_description
+      </key>
+      <value><![CDATA[دريافت اطلاعيه در مورد همه محصولات فروشگاه]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products</key>
+      <value><![CDATA[اطلاعيه محصولات]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>
+        newsletter_product_notifications_products_description
+      </key>
+      <value><![CDATA[براي حذف اطلاعيه محصولات ، تيک کنار اطلاعيه را برداشته و بر روي ادامه کليک نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>newsletter_product_notifications_products_none</key>
+      <value><![CDATA[در حال حاضر محصولی برای اطلاعیه انتخاب نشده است..<br /><br /> برای افزودن محصولات به لیست اطلاعیه های شما باید بر روی لینک اطلاعیه در صفحه اطلاعات محصول کلیک نمایید.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_title</key>
+      <value><![CDATA[آدرس اصلي]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_description</key>
+      <value><![CDATA[این آدرس به عنوان انتخاب پیش فرض برای ارسال سفارشات و صورتحساب استفاده می شود.<br /><br /> از این آدرس همچنین برای محاسبه هزینه های ارسال و نرخ مالیات استفاده می شود.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_title</key>
+      <value><![CDATA[آدرس ها]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>primary_address_marker</key>
+      <value><![CDATA[(آدرس اصلي)]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_maximum_entries</key>
+      <value><![CDATA[<font color="#ff0000"><b> تذکر: </b></font> حداکثر ثبت %s آدرس در کتابچه آدرس مجاز است.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_title</key>
+      <value><![CDATA[حذف آدرس]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_delete_address_description</key>
+      <value><![CDATA[آيا براي حذف اين آدرس از کتابچه آدرس اطمينان داريد؟]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>address_book_new_address_title</key>
+      <value><![CDATA[آدرس جديد]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>selected_address_title</key>
+      <value><![CDATA[آدرس انتخاب شده]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>set_as_primary</key>
+      <value><![CDATA[تنظيم به عنوان آدرس اصلي.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_heading</key>
+      <value><![CDATA[قوانين سايت]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_description</key>
+      <value><![CDATA[با تیک زدن این باکس موافقت خود را با قوانین سایت اعلام نمایید. قوانین سایت در <a href="%s">اینجا</a> قابل دسترسی است.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>create_account_terms_confirm</key>
+      <value><![CDATA[من قوانين را مطالعه و با آن موافق هستم.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten_heading</key>
+      <value><![CDATA[كلمه عبور خود را فراموش كرده ام!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>password_forgotten</key>
+      <value><![CDATA[درصورتي كه كلمه عبور خود را فراموش كرده ايد،آدرس ايميل خود را در فيلد زير وارد نماييد، در اين صورتي ايميلي براي شما ارسال ميشود كه حاوي كلمه عبور شما ميباشد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_subject</key>
+      <value><![CDATA[به %s خوش آمديد !]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_create_account_body</key>
+      <value><![CDATA[1- كلمات كليدي ميتوانند جهت خلاصه كردن نتايج جستجو بوسيله AND ويا OR از يكديگر جدا شوند.<br /><br />به عنوان مثال، <u>ماوس AND كيبورد</u> موجب ارائه نتايجي ميشود كه شامل هر دو كلمه است. اما جستجو با OR به عنوان مثال : <u>ماوس OR كيبورد</u>، نتايج جستجو ممكن است حاوي يك يا هر دو كلمه باشد.<br /><br />2-جستجوي دقيق عبارت هنگامي ممكن است كه كلمات كليدي در داخل علامت " " قرار گيرند. <br /><br />به عنوان مثال، عبارت: <u>"كارت اينترنت"</u> منتهي به ارائه نتايجي مي‌شود كه دقيقا حاوي عبارت فوق باشند.<br /><br />3- از پرانتز ميتوان جهت محدود كردن كلي نتايج جستجو استفاده نمود.<br /><br />براي مثال، <u>اينترنت and (كيبورد or ماوس or "مانيتور")</u>.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_male</key>
+      <value><![CDATA[جناب آقاي %s ،]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_female</key>
+      <value><![CDATA[سرکار خانم %s ،]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_addressing_gender_unknown</key>
+      <value><![CDATA[%s عزيز ،]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_subject</key>
+      <value><![CDATA[يدا آوري کلمه عبور براي %s]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_password_reminder_body</key>
+      <value><![CDATA[کلمه عبور جديد از اين آدرس %s درخواست شده است.\n\nکلمه عبور جديد شما براي %s عبارتست از:\n\n%s\n\nهرگونه سوالات و مشکلات خود در مورد سرويس هاي ما را از  طريق ايميل مقابل با مدير فروشگاه در ميان بگذاريد: %s.\n\nتوجه : اگر اين درخواست از طرف شما نبوده ، لطفا با مدير فروشگاه تماس بگيريد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_created</key>
+      <value><![CDATA[تبریک ! حساب کاربری شما با موفقیت ایجاد شد و شما می توانید از طریق حساب کاربری خود وارد سایت شده و از مزایای آن جهت تسهیل در خرید خود استفاده نمایید. اگر هرگونه سوالی در مورد فروشگاه و نحوه خرید از آن را دارید با آدرس ایمیل <a href="%s">مدیر فروشگاه</a> تماس بگیرید. ما به درخواست شما در کمترین زمان ممکن پاسخ خواهیم داد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_account_updated</key>
+      <value><![CDATA[حساب کاربري شما با موفقيت بروز شد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_updated</key>
+      <value><![CDATA[کلمه عبور حساب کاربري شما با موفقيت بروز شد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_newsletter_updated</key>
+      <value><![CDATA[اشتراک خبرنامه شما با موفقيت بروز شد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_notifications_updated</key>
+      <value><![CDATA[اطلاعيه محصولات شما با موفقيت بروز شد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_deleted</key>
+      <value><![CDATA[آدرس انتخاب شده با موفقيت از کتابچه آدرس شما حذف گرديد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_address_book_entry_updated</key>
+      <value><![CDATA[کتابچه آدرس شما با موفقيت بروز شد!]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>success_password_forgotten_sent</key>
+      <value><![CDATA[تبريک : کلمه عبور جديد شما با موفقيت به آدرس ايميلتان ارسال شد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>warning_primary_address_deletion</key>
+      <value><![CDATA[امکان حذف آدرس اصلي وجود ندارد. لطفا آدرس ديگري را به عنوان آدرس اصلي تعيين نموده و مجددا تلاش نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_current_password_not_matching</key>
+      <value><![CDATA[کلمه عبور فعلي شما صحيح نمي باشد. لطفا مجددا تلاش نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_entry_non_existing</key>
+      <value><![CDATA[آدرسي در کتابچه آدرس وجود ندارد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_address_book_full</key>
+      <value><![CDATA[کتابچه آدرس شما پر شده است. لطفا براي ايجاد آدرس جديد يکي از آدرس هايي که ديگر لازم نداريد را حذف نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>error_password_forgotten_no_email_address_found</key>
+      <value><![CDATA[خطا : آدرس ايميل وارد شده در بانک سايت ما وجود ندارد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>email_address</key>
+      <value><![CDATA[آدرس ايميل :]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>messages</key>
+      <value><![CDATA[پیام]]></value>
+      <group>account</group>
+    </definition>		
+    <definition>
+      <key>warning_install_directory_exists</key>
+      <value><![CDATA[پوشه نصب در محل /install وجود دارد. لطفا به دلايل امنيتي اين پوشه را حذف نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_config_file_writeable</key>
+      <value><![CDATA[امکان تغییر فایل پیکربندی فروشگاه در مسیر \includes\configure.php وجود دارد. این مورد از نظر امنیتی قابل قبول نخواهد بود ، خواهشمنداست مجوز دسترسی مناسبی برای این فایل تنظیم نمایید.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_non_existent</key>
+      <value><![CDATA[پوشه Sessions وجود ندارد : %s .تا زمان ايجاد اين پوشه Sessions کار نخواهد کرد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_directory_not_writeable</key>
+      <value><![CDATA[مجوز نوشتن در پوشه Sessions وجود ندارد ، لطفا مجوز لازم براي اين پوشه تنظيم نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_session_auto_start</key>
+      <value><![CDATA[session.auto_start فعال است - لطفا مقدار آن را در تنظيمات PHP سرورتان غير فعال نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>warning_download_directory_non_existent</key>
+      <value><![CDATA[پوشه محصولات قابل دانلود وجود ندارد : %s تا زمان ايجاد اين پوشه امکان دانلود اين مجصولات وجود ندارد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>alternative_checkout_methods</key>
+      <value><![CDATA[- يا -]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value><![CDATA[ارسال]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_billing_address</key>
+      <value><![CDATA[لطفا آدرس مورد نظر براي ارسال صورتحساب را انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>create_new_billing_address</key>
+      <value><![CDATA[ايجاد آدرس جديد براي ارسال صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>ship_to_this_address</key>
+      <value><![CDATA[ارسال به اين آدرس]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_address</key>
+      <value><![CDATA[لطفا آدرس مورد نظر براي ارسال سفارش را انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>create_new_shipping_address</key>
+      <value><![CDATA[ايجاد آدرس جديد براي ارسال سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shopping_cart</key>
+      <value><![CDATA[سبد خريد]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping</key>
+      <value><![CDATA[روش ارسال سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_shipping_address</key>
+      <value><![CDATA[آدرس ارسال سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment</key>
+      <value><![CDATA[روش پرداخت سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_payment_address</key>
+      <value><![CDATA[آدرس ارسال صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_shopping_cart_order_total_zero</key>
+      <value><![CDATA[سفارشات سبد خريد شما برابر صفر است و شما قادر به استفاده از حساب اعتباري خود براي خريد از فروشگاه نيستيد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_confirmation</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_checkout_success</key>
+      <value><![CDATA[با موفقيت انجام شد!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_minimum_order_quantity</key>
+      <value><![CDATA[حداقل مقدار سفارش %s از %s است.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_maximum_order_quantity</key>
+      <value><![CDATA[حداکثر مقدار سفارش %s از %s است.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_gift_certificate_quantity_must_be_one</key>
+      <value><![CDATA[خطا : تعداد کارت هديه نبايد بيشتر از يکي باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_order_increment</key>
+      <value><![CDATA[ضريب افزايش مقدار سفارش %s از %s است.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>senders_name</key>
+      <value><![CDATA[نام فرستنده]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>senders_email</key>
+      <value><![CDATA[ايميل فرستنده]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>recipients_name</key>
+      <value><![CDATA[نام گيرنده]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>recipients_email</key>
+      <value><![CDATA[ايميل گيرنده]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_heading</key>
+      <value><![CDATA[سبد خريد]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>top_category</key>
+      <value><![CDATA[(شاخه اصلی)]]></value>
+      <group>checkout</group>
+    </definition>	
+    <definition>
+      <key>shipping_method_heading</key>
+      <value><![CDATA[روش ارسال]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_method</key>
+      <value><![CDATA[روش پرداخت]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_billing_information</key>
+      <value><![CDATA[اطلاعات ارسال صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_shipping_information</key>
+      <value><![CDATA[اطلاعات ارسال سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_shipping_method</key>
+      <value><![CDATA[روش ارسال سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_payment_information</key>
+      <value><![CDATA[روش پرداخت سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>checkout_order_review</key>
+      <value><![CDATA[بازبینی و تایید نهایی سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_heading</key>
+      <value><![CDATA[آدرس ارسال]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_heading</key>
+      <value><![CDATA[روش پرداخت]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_address_heading</key>
+      <value><![CDATA[آدرس صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>confirmation_heading</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>coupons_redeem_heading</key>
+      <value><![CDATA[استفاده از کوپن تخفيف]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>coupons_redeem_information_title</key>
+      <value><![CDATA[لطفا شماره کوپن را وارد نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>fields_coupons_redeem_code</key>
+      <value><![CDATA[شماره کوپن:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>gift_certificates_redeem_heading</key>
+      <value><![CDATA[استفاده از کارت هديه]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>gift_certificates_redeem_information_title</key>
+      <value><![CDATA[لطفا شماره کارت هديه را وارد نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>fields_gift_certificates_redeem_code</key>
+      <value><![CDATA[شماره کارت هديه:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>success_heading</key>
+      <value><![CDATA[سفارش شما ايجاد گرديد!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_address_title</key>
+      <value><![CDATA[آدرس صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_destination</key>
+      <value><![CDATA[لطفا آدرسي که مايليد سفارش به آنجا ارسال شود را از کتابچه آدرس انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_shipping_destination</key>
+      <value><![CDATA[در حال حاضر آدرس ارسال صورتساب به عنوان آدرس ارسال سفارش نيز تعيين شده است.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_shipping_address_title</key>
+      <value><![CDATA[آدرس ارسال:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>please_select</key>
+      <value><![CDATA[لطفا انتخاب نماييد]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shipping_method_title</key>
+      <value><![CDATA[روش ارسال]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_shipping_method</key>
+      <value><![CDATA[لطفا روش مورد نظر براي ارسال اين سفارش را انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_shipping_method_available</key>
+      <value><![CDATA[فقط يک روش جهت ارسال سفارش شما وجود دارد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>add_comment_to_order_title</key>
+      <value><![CDATA[افزودن توضيح در مورد سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>address_book_entries_title</key>
+      <value><![CDATA[آدرس]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_shipping_destination</key>
+      <value><![CDATA[اگر مايليذ سفارش شما به آدرس ديگري ارسال شود ، لطفا آدرس مورد نظر را انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>select_another_billing_destination</key>
+      <value><![CDATA[اگر مايليذ صورتحساب شما به آدرس ديگري ارسال شود ، لطفا آدرس مورد نظر را انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address_title</key>
+      <value><![CDATA[آدرس ارسال سفارش جديد]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_shipping_address</key>
+      <value><![CDATA[از اين اطلاعات براي ايجاد آدرس ارسال براي اين سفارش استفاده شود.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address_title</key>
+      <value><![CDATA[آدرس ارسال صورتحساب جديد]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>create_new_billing_address_title</key>
+      <value><![CDATA[ايجاد آدرس ارسال صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>create_new_shipping_address_title</key>
+      <value><![CDATA[ايجاد آدرس ارسال سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>use_billing_address_title</key>
+      <value><![CDATA[استفاده از آدرس صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>estimate_shipping</key>
+      <value><![CDATA[هزينه ارسال]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>introduce_estimate_shipping</key>
+      <value><![CDATA[براي دريافت هزينه ارسال ، مقصد خود را وارد نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>get_a_quote</key>
+      <value><![CDATA[گرفتن پيشنهاد قيمت]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>update_total</key>
+      <value><![CDATA[بروز رساني جمع]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>ship_to_this_address</key>
+      <value><![CDATA[ارسال به اين آدرس]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>new_billing_address</key>
+      <value><![CDATA[لطفا از اطلاعات ذيل که براي ارسال صورتحساب مي باشد ، براي ارسال سفارش نيز استفاده نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>billing_address_title</key>
+      <value><![CDATA[آدرس ارسال صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>selected_billing_destination</key>
+      <value><![CDATA[آدرس ارسال صورتحساب انتخاب شده براي تحويل فاکتور به آن آدرس مورد استفاده قرار مي گيرد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_billing_destination</key>
+      <value><![CDATA[لطفا آدرسي که مي خواهيد صورتحساب به آن تحويل داده شود را از کتابچه آدرس انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>current_billing_address_title</key>
+      <value><![CDATA[آدرس صورتحساب:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_title</key>
+      <value><![CDATA[ادامه عمليات پرداخت]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_shipping</key>
+      <value><![CDATA[انتخاب بهترين روش ارسال.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_payment</key>
+      <value><![CDATA[انتخاب بهترين روش پرداخت.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>continue_checkout_procedure_to_confirmation</key>
+      <value><![CDATA[براي تاييد اين سفارش.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>shopping_cart_empty</key>
+      <value><![CDATA[سبد خريد شما خاليست!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>subtotal_title</key>
+      <value><![CDATA[زير جمع:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>total_title</key>
+      <value><![CDATA[جمع:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_not_possible</key>
+      <value><![CDATA[محصولاتي كه با علامت %s نشانه گذاري شده اند به تعدادي كه شما مي خواهيد در موجودي فروشگاه ما موجود نمي باشند.<br />لطفا تعداد مورد نظر را اصلاح نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>products_out_of_stock_checkout_possible</key>
+      <value><![CDATA[محصولاتي كه با علامت %s نشانه گذاري شده اند به تعدادي كه شما مي خواهيد در موجودي فروشگاه ما موجود نمي باشند.<br />شما در هرصورتي مي توانيد اين محصول را خريداري كنيد و تمامي تعداد موجود در فروشگاه را در مرحله پرداخت نهايي ذكر كنيد تا اين محصولات فورا به دست شما برسند]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_title</key>
+      <value><![CDATA[شرايط و مقررات]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_description</key>
+      <value><![CDATA[با تیک زدن این باکس موافقت خود را با قوانین سایت اعلام نمایید. قوانین سایت در <a href="%s">اینجا</a> قابل دسترسی است.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_conditions_acknowledge</key>
+      <value><![CDATA[من قوانين را مطالعه و با آن موافق هستم.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>payment_method_title</key>
+      <value><![CDATA[روش پرداخت]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>choose_payment_method</key>
+      <value><![CDATA[لطفا يک روش پرداخت جهت اين سفارش انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>only_one_payment_method_available</key>
+      <value><![CDATA[فقط يک روش پرداخت براي اين سفارش موجود مي باشد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>pay_with_store_credit_title</key>
+      <value><![CDATA[پرداخت توسط حساب اعتباري فروشگاه (%s)]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_not_exist</key>
+      <value><![CDATA[شماره کوپن وارد شده معتبر نمي باشد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_not_valid</key>
+      <value><![CDATA[لطفا شماره کوپن صحيح را وارد نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_invalid_date</key>
+      <value><![CDATA[تاريخ استفاده از اين شماره کوپن تمام شده است.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_exceed_uses_per_coupon</key>
+      <value><![CDATA[حداکثر تعداد استفاده از اين کوپن به پايان رسيده است.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_exceed_uses_per_customer</key>
+      <value><![CDATA[حداکثر تعداد استفاده شما از اين کوپن به پايان رسيده است.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_no_match_products</key>
+      <value><![CDATA[استفاده از اين کوپن براي خريد محصولات مورد نظر شما وجود ندارد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_coupon_minimum_order_quantity</key>
+      <value><![CDATA[جمع سبد خريد شما از حداقل مبلغ براي استفاده از اين کوپن کمتر است.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_shopping_cart_total_zero</key>
+      <value><![CDATA[جمع سبد خريد شما برابر صفر مي باشد. شما قادر به استفاده از کارت هديه نخواهيد بود.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_gift_certificate_exist</key>
+      <value><![CDATA[کارت هديه با اين شماره موجود نيست.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_invalid_gift_certificate</key>
+      <value><![CDATA[لطفا شماره کارت هديه معتبر را وارد نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>button_coupon_redeem</key>
+      <value><![CDATA[استفاده از کوپن]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>button_gift_certificate_redeem</key>
+      <value><![CDATA[استفاده از کارت هديه]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_delivery_address_title</key>
+      <value><![CDATA[آدرس تحويل]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_shipping_method_title</key>
+      <value><![CDATA[روش ارسال]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_shipping_tracking_no_title</key>
+      <value><![CDATA[شماره پيگيري]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_products_title</key>
+      <value><![CDATA[محصولات]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_tax_title</key>
+      <value><![CDATA[ماليات]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_total_title</key>
+      <value><![CDATA[جمع]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_billing_address_title</key>
+      <value><![CDATA[آدرس صورتحساب]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_method_title</key>
+      <value><![CDATA[روش پرداخت]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_payment_information_title</key>
+      <value><![CDATA[اطلاعات پرداخت]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_comments_title</key>
+      <value><![CDATA[توضيحات براي سفارش شما]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>order_text_edit_title</key>
+      <value><![CDATA[(ويرايش)]]></value>
+      <group>order</group>
+    </definition>
+    <definition>
+      <key>store_credit_title</key>
+      <value><![CDATA[حساب اعتباري]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>store_credit_order_number</key>
+      <value><![CDATA[سفارش : #%s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_subject</key>
+      <value><![CDATA[فرآيند سفارش]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_order_number</key>
+      <value><![CDATA[شماره سفارش : %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_invoice_url</key>
+      <value><![CDATA[شرح صورتحساب : %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_date_ordered</key>
+      <value><![CDATA[تاريخ سفارش : %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_status</key>
+      <value><![CDATA[وضعيت سفارش : %s]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_products</key>
+      <value><![CDATA[محصولات]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_delivery_address</key>
+      <value><![CDATA[آدرس تحويل]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_billing_address</key>
+      <value><![CDATA[آدرس صورتحساب]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_payment_method</key>
+      <value><![CDATA[روش پرداخت]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>email_order_separator</key>
+      <value><![CDATA[------------------------------------------------------]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>order_processed_successfully</key>
+      <value><![CDATA[سفارش شما با موفقيت انجام شد! سفارش شما بين 2 تا 5 روز کاري تحويل شما خواهد شد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>online_transaction_id</key>
+      <value><![CDATA[شماره رسید پرداخت اینترنتی شما: ]]></value>
+      <group>checkout</group>
+    </definition>	
+    <definition>
+      <key>add_selection_to_product_notifications</key>
+      <value><![CDATA[لطفا مرا از تغييرات محصولات ذيل آگاه نماييد:]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>view_order_history</key>
+      <value><![CDATA[شما می توانید سوابق سفارش خود را با رفتن به صفحه <a href="%s">حساب کاربری من</a> و کلیک بر روی لینک <a href="%s">تاریخچه سفارشات</a> مشاهده نمایید.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>view_downloadable_products_link</key>
+      <value><![CDATA[لینک دانلود محصول دانلودی نیز در همان صفحه قابل مشاهده می باشد.]]></value>
+      <group>checkout</group>
+    </definition>	
+    <definition>
+      <key>contact_store_owner</key>
+      <value><![CDATA[لطفا سوالات خود را مستقيما با <a href="%s">مدير فروشگاه </a> در ميان بگذاريد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>thanks_for_shopping_with_us</key>
+      <value><![CDATA[از خريد آنلاين شما متشکريم!]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>download_footer</key>
+      <value><![CDATA[شما مي توانيد اين محصول را در زماني ديگر در %s دانلود نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_information</key>
+      <value><![CDATA[اطلاعات]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_conditions</key>
+      <value><![CDATA[مقررات]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_contact</key>
+      <value><![CDATA[تماس]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_bank_receipt</key>
+      <value><![CDATA[ثبت فیش بانکی]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>breadcrumb_privacy</key>
+      <value><![CDATA[اطلاعيه ها]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_shipping</key>
+      <value><![CDATA[حمل و نقل]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_sitemap</key>
+      <value><![CDATA[نقشه سايت]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_cookie_usage</key>
+      <value><![CDATA[کوکي استفاده شده]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_ssl_check</key>
+      <value><![CDATA[بررسي امنيت]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_heading</key>
+      <value><![CDATA[اطلاعات و کمک]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_conditions_heading</key>
+      <value><![CDATA[شرايط و مقررات]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_contact_heading</key>
+      <value><![CDATA[ارتباط]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_bank_receipt_heading</key>
+      <value><![CDATA[ثبت فیش بانکی]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>contact_departments_title</key>
+      <value><![CDATA[بخش :]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_privacy_heading</key>
+      <value><![CDATA[آگهي از اطلاعيه ها]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_telephone_title</key>
+      <value><![CDATA[تلفن تماس:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_shipping_heading</key>
+      <value><![CDATA[حمل و نقل]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_sitemap_heading</key>
+      <value><![CDATA[نقشه سايت]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_cookie_usage_heading</key>
+      <value><![CDATA[کوکي استفاده شده]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>info_ssl_check_heading</key>
+      <value><![CDATA[بررسي امنيت]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>conditions</key>
+      <value><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_code_title</key>
+      <value><![CDATA[تصوير امنيتي:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_code_notice_title</key>
+      <value><![CDATA[لطفا متن تصویر امنیتی را در کادر وارد نمایید:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact</key>
+      <value><![CDATA[اطلاعات تماس:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_please_login_for_receipt_register</key>
+      <value><![CDATA[اگر مشتری فروشگاه هستید ، لطفا وارد حساب کاربری خود شده و سپس فیش واریزی را ثبت نمایید.]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>privacy</key>
+      <value><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>shipping</key>
+      <value><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage</key>
+      <value><![CDATA[ما تشخيص داديم که مرورگر شما از کوکي ها پشتيباني نمي کند و يا اين قابليت در مرورگر شما غيرفعال شده است. <br /><br />براي ادامه خريد اينترنتي ضروريست که اين قابليت را فعال نماييد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check</key>
+      <value><![CDATA[ما تخشیص دادیم که مرورگر شما یک جلسه SSL متمایز از سایت ما ایجاد نموده است که از طریق سایت ما قابل استفاده نمی باشد. <br /><br />برای حل این مشکل شما باید یک بار دیگر به حساب کاربری خود وارد شده و مجددا بررسی نمایید.<br /><br />اگر این خطا باز هم ادامه داشت ، لطفا از آخرین نسخه مرورگر خود استفاده نمایید.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_title</key>
+      <value><![CDATA[اطلاعات تماس]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_title</key>
+      <value><![CDATA[ثبت فیش بانکی]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>contact_store_address_title</key>
+      <value><![CDATA[آدرس فروشگاه]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_name_title</key>
+      <value><![CDATA[نام کامل:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_name_title</key>
+      <value><![CDATA[نام کامل:]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>bank_receipt_telephone_title</key>
+      <value><![CDATA[تلفن تماس:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_email_address_title</key>
+      <value><![CDATA[آدرس ایمیل:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_amount_title</key>
+      <value><![CDATA[مبلغ واریزی:(ریال)]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_bank_name_title</key>
+      <value><![CDATA[نام بانک:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_receipt_number_title</key>
+      <value><![CDATA[شماره رسید:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_receipt_date_title</key>
+      <value><![CDATA[تاریخ واریز:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_order_number_title</key>
+      <value><![CDATA[شماره سفارش:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_customer_order_number_title</key>
+      <value><![CDATA[شماره سفارشات شما:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_order_date_title</key>
+      <value><![CDATA[تاریخ ثبت سفارش:]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>bank_receipt_description_title</key>
+      <value><![CDATA[توضیحات:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_code_title</key>
+      <value><![CDATA[تصویر امنیتی:]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>contact_email_address_title</key>
+      <value><![CDATA[آدرس ايميل:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_enquiry_title</key>
+      <value><![CDATA[درخواست:]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>contact_email_sent_successfully</key>
+      <value><![CDATA[درخواست شما با موفقيت به مدير فروشگاه ارسال گرديد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_sent_successfully</key>
+      <value><![CDATA[اطلاعات پرداخت وجه شما با موفقیت ثبت گردید.]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>contact_email_subject</key>
+      <value><![CDATA[ارسال درخواست]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>bank_receipt_email_subject</key>
+      <value><![CDATA[ثبت مشخصات فیش بانکی]]></value>
+      <group>info</group>
+    </definition>	
+    <definition>
+      <key>sitemap_account</key>
+      <value><![CDATA[حساب کاربري من]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_edit</key>
+      <value><![CDATA[اطلاعات حساب]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_address_book</key>
+      <value><![CDATA[کتابچه آدرس]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_history</key>
+      <value><![CDATA[تاريخچه سفارش]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_account_notifications</key>
+      <value><![CDATA[اشتراک خبرنامه]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_shopping_cart</key>
+      <value><![CDATA[سبد خريد]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_checkout_shipping</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_advanced_search</key>
+      <value><![CDATA[جستجوي پيشرفته]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_products_new</key>
+      <value><![CDATA[محصولات جديد]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_specials</key>
+      <value><![CDATA[محصولات فروش ویژه]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>sitemap_reviews</key>
+      <value><![CDATA[نظرات]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_heading</key>
+      <value><![CDATA[اطلاعات و امنيت کوکي]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>cookie_usage_box_contents</key>
+      <value><![CDATA[برای استفاده از خرید آنلاین فروشگاه ما باید کوکی ها را در مرورگرتان فعال نمایید <br /><br />با فعال سازی پشتیبانی از کوکی در مرورگرتان ، ارتباط شما و سایت ما کامل می گردد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_heading</key>
+      <value><![CDATA[اطلاعات و امنيت]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>ssl_check_box_contents</key>
+      <value><![CDATA[ما جلسه SSL ساخته شده توسط مرورگر شما را در صفحاتی که از طریق سرور ما به ارتباط امن نیاز است ، اعتبار سازی می نماییم.<br /><br />این عمل باعث ارتباط امن بین شما و سایت ما خواهد شد و کس دیگری نمی تواند به این ارتباط دسترسی داشته باشد.]]></value>
+      <group>info</group>
+    </definition>
+    <definition>
+      <key>table_heading_weight</key>
+      <value><![CDATA[وزن]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>table_heading_quantity</key>
+      <value><![CDATA[مقدار]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>table_heading_discount</key>
+      <value><![CDATA[تخفيف]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>table_heading_price</key>
+      <value><![CDATA[قيمت]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>section_heading_attributes</key>
+      <value><![CDATA[صفات محصول]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>table_heading_sku</key>
+      <value><![CDATA[شماره انبارداري]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>section_heading_variants</key>
+      <value><![CDATA[انواع محصول]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>section_heading_customizations</key>
+      <value><![CDATA[سفارشي کردن]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>section_heading_reviews</key>
+      <value><![CDATA[نظرات]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>section_heading_quantity_discount</key>
+      <value><![CDATA[مقدار تخفيف]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_new_products</key>
+      <value><![CDATA[محصولات جديد]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_specials</key>
+      <value><![CDATA[فروش ویژه]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews</key>
+      <value><![CDATA[نظرات]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_reviews_new</key>
+      <value><![CDATA[نظر جديد]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_tell_a_friend</key>
+      <value><![CDATA[معرفي به يک دوست]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found_heading</key>
+      <value><![CDATA[محصول پيدا نشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_new_products</key>
+      <value><![CDATA[در حال حاضر محصولي در دسترس نمي باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_products_heading</key>
+      <value><![CDATA[محصولات جديد]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>compare_products_heading</key>
+      <value><![CDATA[مقايسه محصولات]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>specials_heading</key>
+      <value><![CDATA[فروش ویژه]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>reviews_heading</key>
+      <value><![CDATA[نظرات]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_not_found</key>
+      <value><![CDATA[محصول يافت نشد!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>number_of_product_reviews</key>
+      <value><![CDATA[نظرات موجود:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>including_tax</key>
+      <value><![CDATA[با احتساب ماليات]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>in_stock</key>
+      <value><![CDATA[موجود است]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>out_of_stock</key>
+      <value><![CDATA[موجود نيست]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>not_available</key>
+      <value><![CDATA[موجود نيست]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_sku</key>
+      <value><![CDATA[شماره انبارداري:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_availability</key>
+      <value><![CDATA[وضعيت موجودي:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_quantity</key>
+      <value><![CDATA[مقدار:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_moq</key>
+      <value><![CDATA[حداقل مقدار سفارش:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_order_increment</key>
+      <value><![CDATA[ضريب افزايش مقدار سفارش:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_sample_url</key>
+      <value><![CDATA[فايل نمونه:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_gift_certificate_amount</key>
+      <value><![CDATA[مبلغ:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_senders_name</key>
+      <value><![CDATA[نام فرستنده:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_senders_email</key>
+      <value><![CDATA[ايميل فرستنده:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_recipients_name</key>
+      <value><![CDATA[نام گيرنده:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_recipients_email</key>
+      <value><![CDATA[ايميل گيرنده:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_message</key>
+      <value><![CDATA[پیام:]]></value>
+      <group>products</group>
+    </definition>	
+    <definition>
+      <key>fields_gift_certificate_message</key>
+      <value><![CDATA[پيام:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_short_quantity</key>
+      <value><![CDATA[تعداد:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_products_name</key>
+      <value><![CDATA[نام محصول:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_products_price</key>
+      <value><![CDATA[قيمت محصول:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_products_weight</key>
+      <value><![CDATA[وزن محصول:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_products_sku</key>
+      <value><![CDATA[شماره انبارداري محصول:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_products_manufacturer</key>
+      <value><![CDATA[سازنده:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_products_description</key>
+      <value><![CDATA[توضيحات محصول:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_sender_name_empty</key>
+      <value><![CDATA[لطفا يک نام براي فرستنده تعيين نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_sender_email_empty</key>
+      <value><![CDATA[لطفا يک ايميل براي فرستنده تعيين نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_recipient_name_empty</key>
+      <value><![CDATA[لطفا يک نام براي گيرنده تعيين نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_recipient_email_empty</key>
+      <value><![CDATA[لطفا يک ايميل براي گيرنده تعيين نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_message_empty</key>
+      <value><![CDATA[لطفا پيامي براي ارسال تعيين نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_message_open_gift_certificate_amount</key>
+      <value><![CDATA[مبلغ کارت هديه مي بايست بيشتر از %s و کمتر از %s باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_customization_field_must_be_specified</key>
+      <value><![CDATA[لطفا يک مقدار براي سفارشي سازي وارد نماييد: %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_gift_certificate_data_missing</key>
+      <value><![CDATA[لطفا اطلاعاتي براي کارت هديه تعيين نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_customization_fields_missing</key>
+      <value><![CDATA[لطفا قبل از افزودن محصول به سبد خريد يک مقدار براي سفارشي سازي انتخاب نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>go_to_external_products_webpage</key>
+      <value><![CDATA[براي اطلاعات بيشتر به <a href="%s" target="_blank">وب سايت محصول</a> مراجعه نماييد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_availability</key>
+      <value><![CDATA[<font color="#ff0000">اين محصول در تاريخ %s در دسترس خواهد بود.</font>]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>section_heading_products_description</key>
+      <value><![CDATA[توضيحات محصول]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>product_attributes</key>
+      <value><![CDATA[خصوصيات موجود:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>enlarge_image</key>
+      <value><![CDATA[بزرگنمايي]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>date_added</key>
+      <value><![CDATA[تاريخ افزودن:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>manufacturer</key>
+      <value><![CDATA[سازنده:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>price</key>
+      <value><![CDATA[قيمت:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>login_to_write_review</key>
+      <value><![CDATA[براي نوشتن نظر وارد شويد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>average_rating</key>
+      <value><![CDATA[ميانگين امتيازات:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>login_to_write_review</key>
+      <value><![CDATA[براي نوشتن نظر وارد شويد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_review</key>
+      <value><![CDATA[نظري براي اين محصول ثبت نشده است.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>heading_write_review</key>
+      <value><![CDATA[نوشتن نظر خودتان]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>introduction_rating</key>
+      <value><![CDATA[لطفا امتياز خود براي اين محصول را تعيين نماييد:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>1_star</key>
+      <value><![CDATA[1ستاره]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>2_star</key>
+      <value><![CDATA[2ستاره]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>3_star</key>
+      <value><![CDATA[3ستاره]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>4_star</key>
+      <value><![CDATA[4ستاره]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>5_star</key>
+      <value><![CDATA[5ستاره]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>rating_of_5_stars</key>
+      <value><![CDATA[%s از 5 امتياز!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_reviews_available</key>
+      <value><![CDATA[در حال حاضر نظري براي اين محصول وجود ندارد]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>new_review_title</key>
+      <value><![CDATA[نظر جديد]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_rating</key>
+      <value><![CDATA[امتياز:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review</key>
+      <value><![CDATA[نظر:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_from</key>
+      <value><![CDATA[از:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_review_author</key>
+      <value><![CDATA[نام شما:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_note_message</key>
+      <value><![CDATA[<em>تذکر:</em> از HTML پشتیبانی نمیشود!]]></value>
+      <group>products</group>
+    </definition>	
+    <definition>
+      <key>introduction_rating</key>
+      <value><![CDATA[لطفا امتياز خود براي اين محصول را تعيين نماييد:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>login_to_write</key>
+      <value><![CDATA[لطفا براي نوشتن نظر وارد شويد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_lowest_rating_title</key>
+      <value><![CDATA[بد]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_highest_rating_title</key>
+      <value><![CDATA[خوب]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>customer_details_title</key>
+      <value><![CDATA[مشخصات شما]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>friend_details_title</key>
+      <value><![CDATA[مشخصات دوست شما]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>tell_a_friend_message</key>
+      <value><![CDATA[پيام شما]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_name</key>
+      <value><![CDATA[نام شما:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_customer_email_address</key>
+      <value><![CDATA[آدرس ايميل شما:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_name</key>
+      <value><![CDATA[نام دوست شما:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_tell_a_friend_friends_email_address</key>
+      <value><![CDATA[آدرس ايميل دوست شما:]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_subject</key>
+      <value><![CDATA[دوست شما %s اين محصول را از %s به شما پيشنهاد داده است]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_intro</key>
+      <value><![CDATA[سلام %s !\n\nدوست شما, %s، مايل به معرفي  %s از %s ميباشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_link</key>
+      <value><![CDATA[براي مشاهده اين محصول روي لينك زير كليك نماييد و يا آنرا در مرورگر خود Copy و Paste نماييد:\n\n%s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>email_tell_a_friend_signature</key>
+      <value><![CDATA[با تشکر,\n\n%s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_new</key>
+      <value><![CDATA[در خصوص ارسال نظر براي اين محصول از شما متشکريم! نظر شما ثبت و فعال گرديد!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_review_moderation</key>
+      <value><![CDATA[در خصوص ارسال نظر براي اين محصول از شما متشکريم! نظر شما ثبت گرديد و پس از تاييد مدير فعال مي گردد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>success_tell_a_friend_email_sent</key>
+      <value><![CDATA[ايميل شما در مورد %s با موفقيت به %s ارسال گرديد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_friends_name_empty</key>
+      <value><![CDATA[خطا : نام دوست شما نبايد خالي باشد!]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_invalid_friends_email_address</key>
+      <value><![CDATA[خطا : آدرس ايميل دوست شما معتبر نمي باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>error_tell_a_friend_customers_name_empty</key>
+      <value><![CDATA[خطا : نام شما نبايد خالي باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>
+        error_tell_a_friend_invalid_customers_email_address
+      </key>
+      <value><![CDATA[خطا : آدرس ايميل شما معتبر نمي باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search</key>
+      <value><![CDATA[جستجو]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>breadcrumb_search_results</key>
+      <value><![CDATA[نتايج]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_heading</key>
+      <value><![CDATA[جستجو]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>advanced_search_heading</key>
+      <value><![CDATA[جستجو پيشرفته]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_results_heading</key>
+      <value><![CDATA[نتايج جستجو]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_criteria_title</key>
+      <value><![CDATA[معيارهاي جستجو]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_categories</key>
+      <value><![CDATA[شاخه:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_recursive</key>
+      <value><![CDATA[جستجو در زيرشاخه ها]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_manufacturers</key>
+      <value><![CDATA[سازندگان:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_from</key>
+      <value><![CDATA[قيمت از:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_price_to</key>
+      <value><![CDATA[تا (قيمت):]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_from</key>
+      <value><![CDATA[تاريخ از:]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>field_search_date_to</key>
+      <value><![CDATA[تا (تاريخ):]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_tips</key>
+      <value><![CDATA[راهنماي جستجو]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help_heading</key>
+      <value><![CDATA[راهنماي جستجو]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>search_help</key>
+      <value><![CDATA[1- كلمات كليدي ميتوانند جهت خلاصه كردن نتايج جستجو بوسيله AND ويا OR از يكديگر جدا شوند.<br /><br />به عنوان مثال، <u>ماوس AND كيبورد</u> موجب ارائه نتايجي ميشود كه شامل هر دو كلمه است. اما جستجو با OR به عنوان مثال : <u>ماوس OR كيبورد</u>، نتايج جستجو ممكن است حاوي يك يا هر دو كلمه باشد.<br /><br />2-جستجوي دقيق عبارت هنگامي ممكن است كه كلمات كليدي در داخل علامت \" \" قرار گيرند. <br /><br />به عنوان مثال، عبارت: <u>\"كارت اينترنت\"</u> منتهي به ارائه نتايجي مي‌شود كه دقيقا حاوي عبارت فوق باشند.<br /><br />3- از پرانتز ميتوان جهت محدود كردن كلي نتايج جستجو استفاده نمود.<br /><br />براي مثال، <u>اينترنت and (كيبورد or ماوس or \"مانيتور\")</u>.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>close_window</key>
+      <value><![CDATA[بستن اين پنجره]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>error_search_at_least_one_input</key>
+      <value><![CDATA[حداقل يكي از فيلدهاي جستجو بايد پرشود.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_from_date</key>
+      <value><![CDATA[تاريخ ابتدا اشتباه ميباشد.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_to_date</key>
+      <value><![CDATA[تاريخ انتها اشتباه ميباشد.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_to_date_less_than_from_date</key>
+      <value><![CDATA[تاريخ انتها بايد بزگتر يا مساوي تاريخ ابتدا باشد.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_from_not_numeric</key>
+      <value><![CDATA[شما در فيلد قيمت بايد يك عدد وارد كنيد]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_not_numeric</key>
+      <value><![CDATA[شما در فيلد قيمت بايد يك عدد وارد كنيد]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_price_to_less_than_price_from</key>
+      <value><![CDATA[مبلغ انتهايي بايد بزرگتر يا مساوي مبلغ ايتدايي باشد.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>error_search_invalid_keywords</key>
+      <value><![CDATA[كلمات جستجو مجاز نميباشند.]]></value>
+      <group>search</group>
+    </definition>
+    <definition>
+      <key>js_review_text</key>
+      <value><![CDATA[* متن نظر ارائه شده توسط شما بايد حداقل داراي %s کاراکتر باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_review_rating</key>
+      <value><![CDATA[* شما بايد براي نظر خود يک امتياز نيز تعيين کنيد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_customization_file_size</key>
+      <value><![CDATA[اندازه فايل بايد کمتر از %s باشد.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>js_no_payment_module_selected</key>
+      <value><![CDATA[* لطفا يک روش براي پرداخت سفارش خود انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_no_payment_module_selected</key>
+      <value><![CDATA[لطفا يک روش براي پرداخت سفارش خود انتخاب نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_conditions_not_accepted</key>
+      <value><![CDATA[لطفا موافقت خود در مورد شرايط و مقررات اين سفارش را با تيک زدن باکس مربوطه اعلام نماييد.]]></value>
+      <group>checkout</group>
+    </definition>
+    <definition>
+      <key>error_privacy_statement_not_accepted</key>
+      <value><![CDATA[لطفا موافقت خود در مورد اطلاعات سفارش  را با تيک زدن باکس مربوطه اعلام نماييد.]]></value>
+      <group>account</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender</key>
+      <value><![CDATA[جنسيت:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_gender_error</key>
+      <value><![CDATA[لطفا جنسيت خود را مشخص كنيد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name</key>
+      <value><![CDATA[نام:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_first_name_error</key>
+      <value><![CDATA[نام شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name</key>
+      <value><![CDATA[نام خانوادگي:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_last_name_error</key>
+      <value><![CDATA[نام خانوادگي شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth</key>
+      <value><![CDATA[تاريخ تولد:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_date_of_birth_error</key>
+      <value><![CDATA[تاريخ تولد وارد شده توسط شما نادرست است لطفا دوباره بررسي كنيد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address</key>
+      <value><![CDATA[آدرس ايميل:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_group</key>
+      <value><![CDATA[گروه مشتري:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_store_credit</key>
+      <value><![CDATA[حساب اعتباري فروشگاه:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_error</key>
+      <value><![CDATA[آدرس ايميل شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_check_error</key>
+      <value><![CDATA[آدرس پست الكترونيك شما صحيح نميباشد لطفا آنرا اصلاح نماييد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_email_address_exists_error</key>
+      <value><![CDATA[آدرس ایمیل شما قبلا ثبت شده است - لطفا با همان آدرس ایمیل وارد فروشگاه شويد و يا براي ايجاد حساب كاربري جديد از يك آدرس ديگر استفاده كنيد. در صورت وجود هرگونه مشكل در ثبت نام مي توانيد با ما تماس حاصل فرمائيد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company</key>
+      <value><![CDATA[نام شرکت:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_company_error</key>
+      <value><![CDATA[نام شرکت شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address</key>
+      <value><![CDATA[آدرس پستی:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_street_address_error</key>
+      <value><![CDATA[آدرس پستی شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb</key>
+      <value><![CDATA[منطقه:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_suburb_error</key>
+      <value><![CDATA[نام منطقه شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code</key>
+      <value><![CDATA[کد پستي:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_post_code_error</key>
+      <value><![CDATA[کد پستي شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city</key>
+      <value><![CDATA[شهر:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_city_error</key>
+      <value><![CDATA[نام شهر شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state</key>
+      <value><![CDATA[استان/ايالت:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_error</key>
+      <value><![CDATA[نام استان شما بايد حداقل شامل %s کاراکتر باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_state_select_pull_down_error</key>
+      <value><![CDATA[لطفا يك استان را از منوي كشويي استانها انتخاب كنيد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country</key>
+      <value><![CDATA[کشور:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_country_error</key>
+      <value><![CDATA[شما بايد از منوي كشورها،كشور مورد نظر خود را انتخاب نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number</key>
+      <value><![CDATA[تلفن همراه:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_telephone_number_error</key>
+      <value><![CDATA[شماره تلفن همراه شما بايد حداقل %s کاراکتر داشته باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number</key>
+      <value><![CDATA[تلفن ثابت یا فکس:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_fax_number_error</key>
+      <value><![CDATA[شماره تلفن یا فکس شما بايد حداقل %s کاراکتر داشته باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_newsletter</key>
+      <value><![CDATA[خبرنامه:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password</key>
+      <value><![CDATA[کلمه عبور:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_error</key>
+      <value><![CDATA[کلمه عبور شما بايد حداقل %s کاراکتر داشته باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>
+        field_customer_password_mismatch_with_confirmation
+      </key>
+      <value><![CDATA[كادر تائيد كلمه عبور شما بايد با كلمه عبور واقعي يكي باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_confirmation</key>
+      <value><![CDATA[تاييد کلمه عبور:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current</key>
+      <value><![CDATA[كلمه عبور فعلي:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_current_error</key>
+      <value><![CDATA[کلمه عبور شما بايد حداقل]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new</key>
+      <value><![CDATA[کلمه عبور جديد:]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_password_new_error</key>
+      <value><![CDATA[کلمه عبور جديد شما بايد حداقل %s کاراکتر داشته باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>
+        field_customer_password_new_mismatch_with_confirmation_error
+      </key>
+      <value><![CDATA[كادر تائيد كلمه عبور شما بايد با كلمه عبور جديد يكي باشد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>reviewed_by</key>
+      <value><![CDATA[توسط %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_rating</key>
+      <value><![CDATA[امتياز: %s [%s]]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>no_review</key>
+      <value><![CDATA[نظري براي اين محصول ثبت نشده است.]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>field_posted_on</key>
+      <value><![CDATA[ارسال شده در]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>heading_write_review</key>
+      <value><![CDATA[نوشتن نظر خودتان]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>review_date_added</key>
+      <value><![CDATA[تاريخ افزودن : %s]]></value>
+      <group>products</group>
+    </definition>
+    <definition>
+      <key>credit_card_number_error</key>
+      <value><![CDATA[شماره کارت اعتباري وارد شده نامعتبر است.<br />لطفا شماره را بررسي و مجددا تلاش نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>maximum_file_upload_size</key>
+      <value><![CDATA[(حداکثر : %s)]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_concat_captcha_check_error</key>
+      <value><![CDATA[خطا : کد تصویر امنیتیِ وارد شده اشتباه است]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_name_error</key>
+      <value><![CDATA[خطا : لطفا يک نام وارد نماييد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_concat_email_error</key>
+      <value><![CDATA[خطا : لطفا يک آدرس ايميل صحيح وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_bank_receipt_email_error</key>
+      <value><![CDATA[خطا : لطفا يک آدرس ايميل صحيح وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_bank_receipt_amount_error</key>
+      <value><![CDATA[خطا : مبلغ واریزی وارد نشده است]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_bank_receipt_bankname_error</key>
+      <value><![CDATA[خطا : نام بانک وارد نشده است]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_bank_receipt_receiptnumber_error</key>
+      <value><![CDATA[خطا : شماره رسید فیش واریزی وارد نشده است]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_bank_receipt_ordernumber_error</key>
+      <value><![CDATA[خطا : شماره سفارش صحیح نمی باشد یا مقدار آن وارد نشده است]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_bank_receipt_captcha_check_error</key>
+      <value><![CDATA[خطا : کد تصویر امنیتیِ وارد شده اشتباه است]]></value>
+      <group>general</group>
+    </definition>	
+    <definition>
+      <key>field_bank_receipt_amount_error</key>
+      <value><![CDATA[خطا : مبلغ وارد شده صحیح نمی باشد]]></value>
+      <group>general</group>
+    </definition>		
+    <definition>
+      <key>field_departments_email_error</key>
+      <value><![CDATA[خطا : لطفا آدرس ايميل صحيح بخش را وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_customer_name_required</key>
+      <value><![CDATA[خطا : لطفا يک نام وارد نماييد]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_enquiry_error</key>
+      <value><![CDATA[خطا : لطفا متن درخواست را وارد نماييد.]]></value>
+      <group>general</group>
+    </definition>
+    <definition>
+      <key>field_telephone_error</key>
+      <value><![CDATA[خطا : لطفا يک شماره تلفن همراه وارد نماييد]]></value>
+      <group>general</group>
+    </definition>
+  </definitions>
+  <tables>
+    <table>
+      <meta>
+        <name>toc_articles_description</name>
+        <key_field>articles_id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <articles_name><![CDATA[درباره ما]]></articles_name>
+        <articles_description><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></articles_description>
+        <articles_head_desc_tag><![CDATA[ ]]></articles_head_desc_tag>
+        <articles_head_keywords_tag><![CDATA[ ]]></articles_head_keywords_tag>
+      </definition>
+      <definition>
+        <key>2</key>
+        <articles_name><![CDATA[حمل و نقل و عودت]]></articles_name>
+        <articles_description><![CDATA[ بگذارید در اینجا اطلاعات مورد نیاز است.]]></articles_description>
+        <articles_head_desc_tag><![CDATA[ ]]></articles_head_desc_tag>
+        <articles_head_keywords_tag><![CDATA[ ]]></articles_head_keywords_tag>
+      </definition>
+      <definition>
+        <key>3</key>
+        <articles_name><![CDATA[حریم شخصی]]></articles_name>
+        <articles_description><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></articles_description>
+        <articles_head_desc_tag><![CDATA[ ]]></articles_head_desc_tag>
+        <articles_head_keywords_tag><![CDATA[ ]]></articles_head_keywords_tag>
+      </definition>
+      <definition>
+        <key>4</key>
+        <articles_name><![CDATA[شرایط استفاده]]></articles_name>
+        <articles_description><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></articles_description>
+        <articles_head_desc_tag><![CDATA[ ]]></articles_head_desc_tag>
+        <articles_head_keywords_tag><![CDATA[ ]]></articles_head_keywords_tag>
+      </definition>
+      <definition>
+        <key>5</key>
+        <articles_name><![CDATA[يادداشت ها]]></articles_name>
+        <articles_description><![CDATA[اطلاعات مورد نياز را اينجا قرار دهيد.]]></articles_description>
+        <articles_head_desc_tag><![CDATA[ ]]></articles_head_desc_tag>
+        <articles_head_keywords_tag><![CDATA[ ]]></articles_head_keywords_tag>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_email_templates_description</name>
+        <key_field>email_templates_id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <email_title><![CDATA[به %%store_name%% خوش آمدید]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="53">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="78"><font face="Tahoma"><span>%%greeting_text%%\n			<span lang="fa">&nbsp;عزیز</span></span><span lang="fa">&nbsp; \n					</span>ورودتان به\n					<font color="#CC0000">%%store_name%%</font> را به شما خوش \n					آمد می گوییم!</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="273"><font face="Tahoma">هم اکنون شما می توانید از خدمات \n					متنوعی که به شما عرضه می شود استفاده کنید. برخی از این خدمات \n					عبارتند از:</font>&nbsp;<ol>\n						<li><font face="Tahoma">سبد خرید دائمی - هر کالایی که به \n						سبد خرید تان اضافه می کنید تا زمانیکه آن را حذف نکنید و \n						یا خرید خود را تکمیل ننمایید، در آن باقی می ماند.<br>&nbsp;</font></li>\n						<li><font face="Tahoma">دفترچه آدرس - در حال حاضر ما می \n						توانیم کالای شما را به آدرسی غیر از خودتان ارسال کنیم. \n						این عمل به منظور ارسال مستقیم کادوهای تولد به صاحبانشان، \n						مناسب است.<br>&nbsp;</font></li>\n						<li><font face="Tahoma">تاریخچه سفارشات - شما می توانید \n						تاریخچه خرید های خود نزد ما را مشاهده کنید.<br>&nbsp;</font></li>\n						<li><font face="Tahoma">مرور کالا - شما می توانید نظرات \n						و عقاید خود را در مورد کالاها با دیگر مشتریان ما به \n						اشتراک بگذارید.</font></li>\n					</ol></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="152"><font face="Tahoma">لطفا \n			برای راهنمایی در مورد هر یک از خدمات آنلاین ما توسط ایمیل با مدیر \n			فروشگاه تماس بگیرید: </font>\n			<p align="left"><font color="#CC0000" face="Tahoma">%%store_owner_email_address%%&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </font></p>\n			<p><font face="Tahoma">توجه: این آدرس ایمیل توسط یکی از مشتریانمان \n			به ما داده شده است. اگر شما برای عضویت ثبت نام نکرده اید، لطفا یک \n			ایمیل به مدیر فروشگاه ارسال کنید.</font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>2</key>
+        <email_title><![CDATA[یادآوری کلمه عبور]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="187" width="719">\n			<font face="Tahoma"><span lang="en-us">&nbsp;</span>کلمه عبور جدید \n			شما برای %%store_name%% عبارتست از:<br>\n			&nbsp;<br>\n			&nbsp;<span lang="fa">رمز عبور :</span><font color="#FF0000"><span lang="en-us"> </span>\n			%%customer_password%%</font><br>\n			&nbsp;<br>\n			&nbsp;<span lang="en-us"> </span>توجه: اگر شما توسط صفحه \n			فراموشی کلمه عبور ما درخواست کلمه عبور نکرده اید نکرده اید، لطفا در اولین فرصت\n			<span lang="en-us">&nbsp;</span>ممکن به مدیر فروشگاه اطلاع دهید.</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>3</key>
+        <email_title><![CDATA[دوست شما %%from_name%% محصولي را از %%store_name%% به شما پيشنهاد داده است.]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="209" width="719">\n			<font face="Tahoma"><span lang="en-us">&nbsp;</span></font><div align="right">\n				<font face="Tahoma"><span lang="en-us">&nbsp;</span>سلام \n				%%to_name%%!<br>\n				<br>\n				<span lang="en-us">&nbsp; </span>دوست شما ،\n				<font color="#FF00FF">%%from_name%%</font> ، به شما پیشنهاد \n				مشاهده محصول %%product_name%% را از </font></div>\n			<div align="right">\n				<font face="Tahoma"><span lang="en-us">&nbsp; </span>\n				%%store_name%% نموده است.<br>\n				<br>\n				<span lang="en-us">&nbsp;</span>%%message%%<br>\n				<br>\n				<span lang="en-us">&nbsp;</span>براي مشاهده اين محصول روي لينك \n				زير كليك نماييد و يا آنرا کپی و در آدرس بار مرورگر خود درج&nbsp; نماييد:<br>\n				<br>\n				<font color="#FF0000"><span lang="en-us">&nbsp; </span>\n				%%product_link%%</font><br>\n				<br>\n				<span lang="en-us">&nbsp;</span>با تشکر ، <br>\n				<br>\n				<span lang="en-us">&nbsp;</span>%%store_name%% <br>\n				<span lang="en-us">&nbsp;</span>%%store_address%%</font></div>\n			<p>&nbsp;</p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>4</key>
+        <email_title><![CDATA[فرآیند سفارش]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\r\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\r\n		<tbody><tr>\r\n			<td colspan="2" bgcolor="#0099CC" height="55" valign="middle" width="803">\r\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\r\n					فروشگاه&nbsp;\r\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\r\n		</tr>\r\n		<tr>\r\n			<td colspan="2" bgcolor="#DDDDDD" height="86" width="803">\r\n			<font face="Tahoma"><font color="#003399">&nbsp; شماره سفارش :</font>\r\n			<font color="#CC0000">%%order_number%%</font><br>\r\n			<font color="#003399">&nbsp;&nbsp;&nbsp;&nbsp; جزئيات فاکتور :</font>\r\n			<font color="#CC0000">%%invoice_link%%</font><br>\r\n			<font color="#003399">&nbsp;&nbsp;&nbsp;&nbsp; تاريخ سفارش :</font>\r\n			<font color="#CC0000">%%date_ordered%%</font></font></td>\r\n		</tr>\r\n		<tr>\r\n			<td colspan="2" bgcolor="#DDDDDD" height="48" width="803">\r\n			<font color="#003399" face="Tahoma">&nbsp; وضعيت سفارش \r\n			:</font><font face="Tahoma"> %%order_status%%</font></td>\r\n		</tr>\r\n		<tr>\r\n			<td colspan="2" bgcolor="#DDDDDD" height="84" width="801">\r\n			<div align="center">\r\n				<p align="right"><font color="#003399" face="Tahoma">&nbsp;<span lang="fa"> \r\n				جزئیات سفارش :</span></font></p>\r\n				<p align="right"><font face="Tahoma">&nbsp; %%order_details%%</font></p></div>\r\n			</td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#DDDDDD" height="144" width="399"><font face="Tahoma">\r\n			<font color="#003399">&nbsp; آدرس گیرنده<span lang="fa"> :</span></font><br>\r\n					<br>\r\n					&nbsp;\r\n					%%delivery_address%%</font></td>\r\n			<td bgcolor="#DDDDDD" height="144" width="399">\r\n			<font face="Tahoma"><font color="#003399">&nbsp; آدرس صورتحساب:</font><br>\r\n					<br>\r\n					&nbsp;\r\n					%%billing_address%%</font></td>\r\n		</tr>\r\n		<tr>\r\n			<td colspan="2" bgcolor="#DDDDDD" height="87" width="803">\r\n			<font color="#003399" face="Tahoma">&nbsp; <span lang="fa">توضیح سفارش :</span></font><p>\r\n					<font face="Tahoma">&nbsp; %%order_comments%%</font></p></td>\r\n		</tr>\r\n		<tr>\r\n			<td colspan="2" bgcolor="#0099CC" width="803">\r\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \r\n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \r\n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\r\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\r\n		</tr>\r\n	</tbody></table>\r\n</div>\r\n\r\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\r\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>5</key>
+        <email_title><![CDATA[به روز رسانی سفارش (%%store_name%%)]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="803">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="86" width="803">\n			<font face="Tahoma"><font color="#003399">شماره سفارش :</font>\n			<font color="#CC0000">%%order_number%%</font><br>\n			<font color="#003399">جزئيات فاکتور :</font>\n			<font color="#CC0000">%%invoice_link%%</font><br>\n			<font color="#003399">تاريخ سفارش :</font>\n			<font color="#CC0000">%%date_ordered%%</font></font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="130" width="803">\n			<font face="Tahoma">&nbsp;<font color="#003399"> وضعیت سفارش:</font><br>\n			&nbsp;<br>\n			&nbsp; <font color="#003399">&nbsp;&nbsp;&nbsp; وضعیت جدید:</font>\n			<font color="#CC0000">%%new_order_status%%</font><br>\n			&nbsp;<br>\n&nbsp;&nbsp;در صورتیکه در مورد این سفارش سوالی دارید، لطفا به مدير فروشگاه\n			<span lang="fa">تماس بگیرید </span>.</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="87" width="801">\n			<font color="#003399" face="Tahoma">&nbsp; </font>\n			<font face="Tahoma">توضیح سفارش:<br>\n			&nbsp;<br>\n			&nbsp;<font color="#009933">%%order_comment%%</font></font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="803">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>6</key>
+        <email_title><![CDATA[به %%store_name%% خوش آمدید]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="769">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="52" width="769">\n			<font face="Tahoma"><b><span lang="fa"><font size="4">&nbsp; </font>\n			</span></b>%%greeting_text%% <span lang="fa">عزیز </span></font>\n			<span dir="rtl"><font face="Tahoma">ورود شما را به %%store_name%% \n			خوش آمد مي گوييم!</font></span></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="59" width="769">\n					<p align="right"><font face="Tahoma"><span lang="fa">&nbsp;\n					</span>در حال حاضر شما مي \n					توانيد از سرويسهاي فروشگاه ما براي خريد راحت تر بهره بگيريد.</font></p>\n					</td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="264" width="769">\n			<font face="Tahoma"><span lang="fa">&nbsp; </span>بخشي از اين سرويس \n			ها شامل موارد ذيل مي باشد <span lang="fa">:</span></font><ol>\n						<li>\n						<p align="justify"><font face="Tahoma"><span dir="rtl">سبد خريد دائمي شما - تمامي محتويات سبد خريد شما تا زماني \n						که خودتان آن را تغيير ندهيد ذخيره خواهد شد</span></font></p></li>\n						<li>\n						<p dir="rtl" align="justify"><font face="Tahoma">\n						<span dir="rtl">کتابچه آدرس - اين سرويس به شما امکان ثبت \n						آدرس هاي مختلف و ارسال سفارش به آدرسي به غير از آدرس \n						خودتان را مي دهد اين سرويس زماني کاربردي مي شود که شما \n						مثلا بخواهيد هديه تولد خويشاوندانتان را مستقيما براي \n						خودشان پست نماييد.</span></font></p></li>\n						<li>\n						<p dir="rtl" align="justify"><font face="Tahoma">\n						<span dir="rtl">تاريخچه سفارشات - شما مي توانيد سوابق \n						کامل سفارشات خود را مشاهده نموده و سفارشات خود را پيگيري \n						نماييد.</span></font></p></li>\n						<li>\n						<p dir="rtl" align="justify"><font face="Tahoma">\n						<span dir="rtl">ايجاد نظرات براي محصولات - با اين سرويس \n						شما مي توانيد نظريه خود در مورد محصولات ما را با ساير \n						مشتريان در ميان بگذاريد</span>.</font></p></li>\n					</ol>\n					</td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="26" width="769">\n			<div align="right">\n&nbsp;\n						<font face="Tahoma">توجه : اين حساب کاربري توسط مدير \n						فروشگاه براي شما ايجاد شده است.</font></div>\n			</td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="99" width="769">\n			<div align="right">\n				<font face="Tahoma"><span lang="fa">&nbsp; </span>لطفا از آدرس \n				ايميل خودتان و کلمه عبور ذيل جهت ورود به فروشگاه استفاده نماييد:</font></div>\n			<div align="right">\n				<font face="Tahoma">&nbsp; <span lang="fa">&nbsp;</span>\n				<span lang="fa">&nbsp;</span> <span lang="fa">نام کاربری :<font color="#FF0000">%%customer_email_address%%</font>\n				</span></font></div>\n			<div align="right">\n<font color="#FF0000" face="Tahoma">&nbsp;<span lang="fa">\n				</span>&nbsp;&nbsp; <span lang="fa">&nbsp;\n				</span>&nbsp;</font><font face="Tahoma">رمز عبور :</font><font color="#FF0000" face="Tahoma"> \n				%%password%%</font></div>\n			</td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="769">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>7</key>
+        <email_title><![CDATA[درخواست رسيدگي از طرف %%store_name%%]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="803">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="86" width="803">\n			<font face="Tahoma"><b><span lang="fa">&nbsp; </span>%%greeting_text%%</b><font color="#00FFFF">\n			</font><span lang="fa"><font color="#00FFFF">&nbsp;</font>عزیز </span>ما \n			متوجه شده ایم<span lang="fa"></span> ، شما در بازدید از فروشگاه ما \n			محصولاتی را به سبد خرید خود <span lang="fa">&nbsp; </span>&nbsp;<span lang="fa">&nbsp;\n			</span>اضافه نموده اید ولی فرآیند خرید خود را تکمیل ننموده اید<span lang="fa"> \n			.</span></font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="130" width="803">\n			<font face="Tahoma">&nbsp; محتویات سبد خرید شما:</font><p align="right">\n			<font face="Tahoma"><br>\n			<font color="#FF0000"><span lang="fa">&nbsp;&nbsp; </span>%%shopping_cart_contents%%</font></font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="138" width="801">\n			<font color="#003399" face="Tahoma">&nbsp; </font>\n			<p><font face="Tahoma"><span lang="fa">&nbsp;&nbsp; </span>ما \n			علاقمند هستیم بدانیم که چه اتفاقی پیش آمده که شما از خرید این \n			محصولات پشیمان شده اید : </font></p>\n			<ul>\n				<li><font face="Tahoma">آیا شما نوع دیگری از این محصول را می \n				خواهید <span lang="fa">.</span></font></li>\n				<li><font face="Tahoma">&nbsp;یا اینکه شما از این محصول ناراضی هستید\n				<span lang="fa">.</span></font></li>\n				<li><font face="Tahoma">یا هر دلیل دیگری ؟</font></li>\n			</ul>\n			</td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="93" width="801">\n			<font face="Tahoma"><span lang="fa">&nbsp; </span>ما با دریافت \n			بازخورد ها از شما و دیگر مشتریان سعی می کنیم که برای هرچه بهتر شدن\n			<font color="#009933">%%store_name%%</font></font><p>\n			<font face="Tahoma">&nbsp;<span lang="fa"> </span>تلاش نماییم.</font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="32" valign="middle" width="801">\n					<div align="right">\n						<font face="Tahoma"><span lang="fa">&nbsp; </span>لطفا توجه نمایید:</font></div>\n					<p align="right"><font face="Tahoma"><span lang="fa">&nbsp;\n					</span>اگر شما عقیده دارید که \n					سفارش خود را کامل نموده اید و از اینکه سفارش شما تحویل داده \n					نشده است ناراحت هستید\n					<span lang="fa">&nbsp;&nbsp;&nbsp; </span>، توسط این ایمیل به شما اطلاع می دهیم \n					که سفارش <span lang="fa">شما</span> در فروشگاه ما کامل نشده \n					است و شما باید با برگشت\n					<span lang="fa">&nbsp;&nbsp;&nbsp; </span>به فروشگاه&nbsp; سفارش خود را تکمیل \n					نمایید.</font></p>\n					<div align="right">\n						<font face="Tahoma">اگر شما در حال حاضر سفارش خود را \n						کامل نموده اید ، از شما عذر خواهی می کنیم</font></div>\n			<div align="right">\n						&nbsp;</div>\n					</td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="103" width="801">\n			<font face="Tahoma">مجددا ، از صرف زمان و توجه شما برای \n					کمک به بهتر شدن <font color="#009933">%%store_name%%</font> \n					تشکر می کنیم.<br>\n					<br>\n					<font color="#009933">%%addtional_message%%</font></font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="803">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>8</key>
+        <email_title><![CDATA[شما يک کوپن تخفيف از %%store_name%% دريافت نموده ايد]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\r\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\r\n		<tbody><tr>\r\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\r\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\r\n					فروشگاه&nbsp;\r\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#DDDDDD" height="209" width="719">\r\n			<font face="Tahoma"><span lang="en-us">&nbsp;</span>%%greeting_text%%\r\n			<br>\r\n			&nbsp;<span lang="en-us"> </span>شما يک کوپن تخفيف از %%store_name%% \r\n			دريافت نموده ايد که مي توانيد با ثبت شماره آن در مرحله سفارش از \r\n			تخفيف آن استفاده نماييد.<br>\r\n			&nbsp;<br>\r\n			&nbsp;شماره کوپن برابر است با :<font color="#FF0000"> %%coupon_code%%</font><br>\r\n			&nbsp;<br>\r\n			&nbsp;<span lang="en-us"> </span>از شماره کوپن خود محافظت نماييد تا \r\n			بتوانيد از تخفيف در نظر گرفته براي خودتان استفاده کنيد.<br>\r\n			&nbsp;<br>\r\n			<span lang="en-us">&nbsp;</span>&nbsp;%%addtional_message%%.</font></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#0099CC" width="719">\r\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \r\n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \r\n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\r\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\r\n		</tr>\r\n	</tbody></table>\r\n</div>\r\n\r\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\r\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>9</key>
+        <email_title><![CDATA[مدير فروشگاه حساب اعتباري شما را شارژ نموده است]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="52" width="719">\n			<font face="Tahoma">%%greeting_text%%</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="86" width="719">\n					<p>\n					<font face="Tahoma">&nbsp;\n					مدير فروشگاه حساب اعتباري شما را بروز نموده است و شما در حال \n					حاضر در حساب اعتباري خود مبلغ</font></p><p>\n					<font face="Tahoma">&nbsp;<font color="#CC0000">%%customer_credits%%</font> \n					موجودي داريد.</font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>10</key>
+        <email_title><![CDATA[دوست شما %%from_name%% ليست محصولات مورد علاقه خود در %%store_name%% را براي شما ارسال تموده است]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="209" width="719">\n			<font face="Tahoma"><span lang="en-us">&nbsp;</span></font><p>\n			<span lang="en-us"><font face="Tahoma">&nbsp;</font></span><span lang="fa"><font face="Tahoma">سلام</font></span><font face="Tahoma">!<br>\n			&nbsp;<br>\n			<span lang="en-us">&nbsp;</span>&nbsp;دوست شما <font color="#FF00FF">\n			%%from_name%%</font> ليست محصولات مورد علاقه خود در\n			<font color="#FF00FF">%%store_name%%</font> را براي شما ارسال <span lang="fa">نموده</span> است<br>\n			&nbsp;<br>\n			&nbsp;<span lang="en-us"> </span>%%message%%<br>\n			&nbsp;<br>\n			&nbsp;<span lang="en-us"> </span>براي مشاهده ليست محصولات مورد علاقه \n			دوستتان بر روي لينک زير کليک نموده و يا آدرس زير را کپي و در نوار \n			آدرس مرورگرتان درج نماييد.<br>\n			&nbsp;<br>\n			&nbsp;<font color="#FF00FF">%%wishlist_url%%</font><br>\n			&nbsp;<br>\n			&nbsp;با تشکر,<br>\n			&nbsp;<br>\n			&nbsp;%%store_name%% <br>\n			&nbsp;%%store_address%%</font></p>\n			<p>&nbsp;</p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>11</key>
+        <email_title><![CDATA[شما يک کارت هديه از طرف %%sender_name%% دريافت نموده ايد]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td colspan="2" bgcolor="#0099CC" height="55" valign="middle" width="769">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#DDDDDD" height="52" width="769">\n			<font face="Tahoma"><b><span lang="fa"><font size="4">&nbsp; </font>\n			</span></b>%%recipient_name%% گرامي ،</font></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#DDDDDD" height="65" width="769">\n			<font face="Tahoma">&nbsp; شما يک کارت هديه از طرف\n			<font color="#009933">%%recipient_name%%</font> دريافت نموده ايد.</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="112" width="399">\n			<font face="Tahoma">&nbsp; مبلغ کارت هديه شما برابر:</font><p>\n			<font color="#CC0000" face="Tahoma">&nbsp; %%gift_certificate_amount%%</font></p></td>\n			<td bgcolor="#DDDDDD" height="112" width="399">\n			<font face="Tahoma">&nbsp; شماره کارت هديه برابر :</font><p>\n			<font color="#CC0000" face="Tahoma">&nbsp; %%gift_certificate_code%%</font></p></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#DDDDDD" height="201" width="769">\n			<font face="Tahoma">شما مي توانيد با نوشتن شماره اين کارت در&nbsp; مرحله \n			خريد از تخفيف آن استفاده نماييد.<br>\n			&nbsp;&nbsp; <br>\n			&nbsp;&nbsp; لطفا در نگهداري اين کارت هديه کوشا باشيد زيرا صدور مجددا آن امکان \n			پذير نمي باشد.<br>\n			&nbsp;&nbsp;<br>\n			&nbsp;&nbsp;<font color="#CC0000"><b>%%gift_certificate_message%%</b></font><br>\n			&nbsp;&nbsp;<br>\n			&nbsp;&nbsp;با تشکر,.</font></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#0099CC" width="769">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>12</key>
+        <email_title><![CDATA[لينک دانلود براي %%downloadable_products%% فعال گرديد]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="803">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="52" width="803">\n			<font face="Tahoma"><b><span lang="fa"><font size="4">&nbsp; </font>\n			</span></b></font><font size="4">عزیز %%customer_name%%,</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="164" width="803">\n			<font face="Tahoma">&nbsp; لينک دانلود محصول خريداري شده از<font color="#009933"> \n					%%store_name%%</font> به آدرس : </font>\n			<p><font face="Tahoma">&nbsp;&nbsp; لینک صفحه :<font color="#FF0000">&nbsp;&nbsp;&nbsp; \n					%%downloadable_products%%</font></font></p>\n			<p><font face="Tahoma">&nbsp;&nbsp; فعال گرديده است.</font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="138" width="801">\n			<font color="#003399" face="Tahoma">&nbsp; </font>\n			<font face="Tahoma"><span lang="fa">&nbsp; </span>لطفا با ورود به \n			محيط سفارش در سايت فروشگاه محصول مورد نظر را دانلود نمايد.<br>\n			&nbsp;<br>\n			&nbsp;&nbsp;&nbsp; لینک دانلود : <font color="#FF0000">%%download_link%%</font><br>\n			&nbsp;<br>\n			&nbsp;&nbsp;&nbsp; با تشکر,</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="100" width="801">\n			<font face="Tahoma"><span lang="fa">&nbsp;</span> <span lang="fa">&nbsp;</span>ما \n			با دریافت بازخورد ها از شما و دیگر مشتریان سعی می کنیم که برای هرچه \n			بهتر شدن <font color="#009933">%%store_name%%</font></font><p>\n			<font face="Tahoma">&nbsp;<span lang="fa">&nbsp; </span>تلاش نماییم.</font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="803">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>13</key>
+        <email_title><![CDATA[يک مدرک استرداد وجه جديد بابت سفارش عودت داده شما]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\r\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\r\n		<tbody><tr>\r\n			<td bgcolor="#0099CC" height="55" valign="middle" width="769">\r\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\r\n					فروشگاه&nbsp;\r\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#DDDDDD" height="52" width="769">\r\n			<font face="Tahoma"><b><span lang="fa"><font size="4">&nbsp; </font>\r\n			</span></b>%%customer_name%%<span lang="fa"> </span></font></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#DDDDDD" height="79" width="769">\r\n					<p align="right"><font face="Tahoma"><span lang="fa">&nbsp;\r\n					</span>يک مدرک استرداد وجه جديد بابت محصول عودتي ذيل براي \r\n					شما ايجاد شده است : <br>\r\n					&nbsp;<br>\r\n					&nbsp;<font color="#CC0000">%%returned_products%%</font></font></p>\r\n					</td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#DDDDDD" height="181" width="769">\r\n			<font face="Tahoma">&nbsp; بابت سفارش <font color="#CC0000">\r\n			%%order_number%%</font>.</font><p><font face="Tahoma">&nbsp; شماره مدرک \r\n			استرداد وجه : <font color="#CC0000">%%slip_number%%</font> و جمع \r\n			مبلغ آن :<font color="#CC0000">%%total_amount%%</font> مي باشد.</font></p>\r\n			<p><font face="Tahoma">&nbsp; شما مي توانيد در محبط کاربري خود در سايت \r\n			اين مدرک استرداد وجه را چاپ نماييد. <br>\r\n			<br>\r\n			<span lang="fa">&nbsp;با</span> <span lang="fa">تشکر</span></font></p></td>\r\n		</tr>\r\n		<tr>\r\n			<td bgcolor="#0099CC" width="769">\r\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \r\n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \r\n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\r\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\r\n		</tr>\r\n	</tbody></table>\r\n</div>\r\n\r\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\r\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>14</key>
+        <email_title><![CDATA[اعتبار در حساب اعتباري فروشگاه بابت سفارش عودت داده شده شما]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td colspan="2" bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#DDDDDD" height="52" width="719">\n			<font face="Tahoma"><b><span lang="fa"><font size="4">&nbsp; </font>\n			</span></b>%%customer_name%%<span lang="fa"> </span></font></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#DDDDDD" height="77" width="719">\n					<p align="right"><font face="Tahoma">&nbsp; بابت محصولات \n					عودتي ذيل مبلغي به حساب اعتباري شما نزد فروشگاه واريز گرديد \n					: <br>\n					&nbsp;<br>\n					&nbsp;<font color="#CC0000"> %%returned_products%% </font></font></p>\n					</td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="54" width="399">\n					<font face="Tahoma">&nbsp; بابت سفارش :<font color="#CC0000">%%order_number%%</font></font></td>\n			<td bgcolor="#DDDDDD" height="54" width="399">\n					<font face="Tahoma">&nbsp; مبلغ کل برابراست با :\n					<font color="#CC0000">%%total_amount%%</font></font></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#DDDDDD" height="112" width="719">\n					<font face="Tahoma">&nbsp;&nbsp; اين مبلغ به حساب اعتباري \n					شما نزد فروشگاه واريز شد و شما مي توانيد در خريدهاي آينده از \n					آن استفاده&nbsp; نماييد. <br>\n					&nbsp;<br>\n					&nbsp;با تشکر</font></td>\n		</tr>\n		<tr>\n			<td colspan="2" bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>15</key>
+        <email_title><![CDATA[يادآوري کلمه عبور مديريت براي %%store_name%%]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="103" width="719">\n			<font face="Tahoma"><span lang="en-us">&nbsp; </span>از طريق آدرس آي \n			پي <span lang="fa">ذیل</span> براي دسترسي به محيط مديريت فروشگاه شما \n			يک کلمه عبور درخواست شده <span lang="en-us">&nbsp; </span>است :</font><p>\n			<font face="Tahoma">&nbsp;<span lang="fa">آدرس آی پی:<font color="#FF0000">\n			</font></span><font color="#FF0000">%%admin_ip_address%%</font></font></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="84" width="719">\n					<font face="Tahoma"><span lang="en-us">&nbsp; </span>کلمه \n					عبور جديد شما :<br>\n					&nbsp;<br>\n					&nbsp;<span lang="en-us"> </span><span lang="fa">کلمه عبور:<font color="#FF0000">\n					</font></span><font color="#FF0000">%%admin_password%%</font></font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+      <definition>
+        <key>16</key>
+        <email_title><![CDATA[این محصول در فروشگاه موجود نیست]]></email_title>
+        <email_content><![CDATA[<div dir="rtl" align="center">\n	<table border="1" cellpadding="0" cellspacing="0" width="800">\n		<tbody><tr>\n			<td bgcolor="#0099CC" height="55" valign="middle" width="719">\n					<p dir="rtl" align="center"><b><font color="#FFFFFF" size="5"><span lang="fa"><font face="Tahoma">\n					فروشگاه&nbsp;\n					</font></span><font face="Tahoma">%%store_name%%</font></font></b></p></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="61" width="719">\n			<font face="Tahoma"><span lang="en-us">&nbsp;</span>%%products_name%% \n			%%products_variants%% موجودي ندارد</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#DDDDDD" height="126" width="719">\n					<font face="Tahoma"><span lang="en-us">&nbsp; </span>تعداد \n					باقي مانده: <font color="#FF00FF">%%products_quantity%%</font>. \n					لطفا جهت افزايش موجودي آن اقدام نماييد. <br>\n					&nbsp;<span lang="en-us"> </span>در فهرست موجودي بخش محصولات در \n					پنل مديريت مي توانيد موجودي را اصلاح نماييد.</font></td>\n		</tr>\n		<tr>\n			<td bgcolor="#0099CC" width="719">\n					<p align="center"><font color="#FFFFFF" face="Tahoma">هرگونه \n					سوالات و مشکلات خود در مورد سرويس هاي ما را از طريق ايميل \n					زیر با مدير فروشگاه در ميان بگذاريد</font></p>\n					<p align="center"><font color="#FFFFFF" face="Tahoma">&nbsp;%%store_owner_email_address%%</font></p></td>\n		</tr>\n	</tbody></table>\n</div>\n\n	<p dir="rtl" align="center"><font face="Tahoma"><font color="FF00FF" size="1">\n	%%store_name%%</font><font size="1">&nbsp; قدرت گرفته از تومیتوکارت پارسی</font></font></p>]]></email_content>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_products_images_groups</name>
+        <key_field>id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <title><![CDATA[نسخه های اصلی]]></title>
+      </definition>
+      <definition>
+        <key>2</key>
+        <title><![CDATA[بند انگشتی ها]]></title>
+      </definition>
+      <definition>
+        <key>3</key>
+        <title><![CDATA[صفحه اطلاعات کالا]]></title>
+      </definition>
+      <definition>
+        <key>4</key>
+        <title><![CDATA[بزرگ]]></title>
+      </definition>
+      <definition>
+        <key>5</key>
+        <title><![CDATA[کوچک]]></title>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_orders_status</name>
+        <key_field>orders_status_id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <orders_status_name><![CDATA[معلق]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>2</key>
+        <orders_status_name><![CDATA[در حال پردازش]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>3</key>
+        <orders_status_name><![CDATA[در حال آماده سازی]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>4</key>
+        <orders_status_name><![CDATA[در حال پرداخت]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>5</key>
+        <orders_status_name><![CDATA[پرداخت شده]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>6</key>
+        <orders_status_name><![CDATA[در حال تحویل]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>7</key>
+        <orders_status_name><![CDATA[تحویل داده شده]]></orders_status_name>
+      </definition>
+      <definition>
+        <key>8</key>
+        <orders_status_name><![CDATA[لغو شده]]></orders_status_name>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_orders_returns_status</name>
+        <key_field>orders_returns_status_id</key_field>
+        <language_field>languages_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <orders_returns_status_name><![CDATA[معلق]]></orders_returns_status_name>
+      </definition>
+      <definition>
+        <key>2</key>
+        <orders_returns_status_name><![CDATA[تأیید شده]]></orders_returns_status_name>
+      </definition>
+      <definition>
+        <key>3</key>
+        <orders_returns_status_name><![CDATA[دریافت شده]]></orders_returns_status_name>
+      </definition>
+      <definition>
+        <key>4</key>
+        <orders_returns_status_name><![CDATA[عودت پذيرفته شد]]></orders_returns_status_name>
+      </definition>
+      <definition>
+        <key>5</key>
+        <orders_returns_status_name><![CDATA[استرداد وجه (بستانکار است)]]></orders_returns_status_name>
+      </definition>
+      <definition>
+        <key>6</key>
+        <orders_returns_status_name><![CDATA[استرداد وجه (حساب اعتباري فروشگاه)]]></orders_returns_status_name>
+      </definition>
+      <definition>
+        <key>7</key>
+        <orders_returns_status_name><![CDATA[عودت پذيرفته نشد.]]></orders_returns_status_name>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_orders_transactions_status</name>
+        <key_field>id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <status_name><![CDATA[تصویب]]></status_name>
+      </definition>
+      <definition>
+        <key>2</key>
+        <status_name><![CDATA[انصراف]]></status_name>
+      </definition>
+      <definition>
+        <key>3</key>
+        <status_name><![CDATA[تأیید]]></status_name>
+      </definition>
+      <definition>
+        <key>4</key>
+        <status_name><![CDATA[بررسی]]></status_name>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_quantity_unit_classes</name>
+        <key_field>quantity_unit_class_id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <quantity_unit_class_title><![CDATA[عدد]]></quantity_unit_class_title>
+      </definition>
+      <definition>
+        <key>2</key>
+        <quantity_unit_class_title><![CDATA[کیلوگرم]]></quantity_unit_class_title>
+      </definition>
+      <definition>
+        <key>3</key>
+        <quantity_unit_class_title><![CDATA[لیتر]]></quantity_unit_class_title>
+      </definition>
+      <definition>
+        <key>4</key>
+        <quantity_unit_class_title><![CDATA[دو جين]]></quantity_unit_class_title>
+      </definition>
+    </table>
+    <table>
+      <meta>
+        <name>toc_weight_classes</name>
+        <key_field>weight_class_id</key_field>
+        <language_field>language_id</language_field>
+      </meta>
+      <definition>
+        <key>1</key>
+        <weight_class_key><![CDATA[گرم]]></weight_class_key>
+        <weight_class_title><![CDATA[گرم]]></weight_class_title>
+      </definition>
+      <definition>
+        <key>2</key>
+        <weight_class_key><![CDATA[کیلوگرم]]></weight_class_key>
+        <weight_class_title><![CDATA[کیلوگرم]]></weight_class_title>
+      </definition>
+      <definition>
+        <key>3</key>
+        <weight_class_key><![CDATA[اونس]]></weight_class_key>
+        <weight_class_title><![CDATA[اونس]]></weight_class_title>
+      </definition>
+      <definition>
+        <key>4</key>
+        <weight_class_key><![CDATA[پوند]]></weight_class_key>
+        <weight_class_title><![CDATA[پوند]]></weight_class_title>
+      </definition>
+    </table>
+  </tables>
+</language>

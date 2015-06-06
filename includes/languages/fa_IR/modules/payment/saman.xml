@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_saman_title</key>
+      <value><![CDATA[پرداخت اینترنتی بانک سامان]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saman_description</key>
+      <value><![CDATA[<div style="font-size:11px; color:#cc0000; width:500; border:1px solid #cc0000; padding:5px; background:#ffffcc;"><b>توجه: </b>وقتي شما دکمه <b>"تاييد سفارش"</b> را کليک کنيد, به صفحه بانک سامان ارجاء داده مي شويد و پس از پرداخت مبلغ سفارش مجددا به اين سايت باز گردانده مي شويد.</div>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_saman_method_title</key>
+      <value><![CDATA[پرداخت اینترنتی بانک سامان  (پشتیبانی از تمام کارت های عضو شبکه شتاب)]]></value>
+      <group>modules-payment</group>
+    </definition>
+	<definition>
+      <key>payment_saman_method_authority</key>
+      <value><![CDATA[شماره رسید تراکنش پرداخت بانک سامان: ]]></value>
+      <group>modules-payment</group>
+    </definition>	
+  </definitions>
+</language>

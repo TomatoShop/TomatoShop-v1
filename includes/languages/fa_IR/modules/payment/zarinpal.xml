@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_zarinpal_title</key>
+      <value><![CDATA[پرداخت از طریق زرین پال]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_description</key>
+      <value><![CDATA[<div style="font-size:11px; color:#cc0000; width:500; border:1px solid #cc0000; padding:5px; background:#ffffcc;"><b>توجه: </b>وقتي شما دکمه <b>"تاييد سفارش"</b> را کليک کنيد, به صفحه سایت زرین پال ارجاء داده مي شويد و پس از پرداخت مبلغ سفارش مجددا به اين سايت باز گردانده مي شويد.</div>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_method_title</key>
+      <value><![CDATA[پرداخت از طریق سایت زرین پال]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_method_refid</key>
+      <value><![CDATA[شماره رسید سند پرداخت زرین پال : ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_result_error_0</key>
+      <value><![CDATA[خطا 0 : عمليات پرداخت به طور کامل طی نشده است.]]></value>
+      <group>modules-payment</group>
+    </definition>	
+    <definition>
+      <key>payment_zarinpal_result_error_1</key>
+      <value><![CDATA[خطا 1- : اطلاعات ناقص می باشد.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_result_error_2</key>
+      <value><![CDATA[خطا 2- : وبسرویس نامعتبر می باشد.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_result_error_3</key>
+      <value><![CDATA[<div style="font-size:11px; color:#cc0000; width:500; border:1px solid #cc0000; padding:5px; background:#ffffcc;"><b>خطا: </b>مبلغ تراکنش زیر  <b>"1000 ریال"</b> می باشد و امکان پرداخت آن وجود ندارد.</div>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_result_error_4</key>
+      <value><![CDATA[<div style="font-size:11px; color:#cc0000; width:500; border:1px solid #cc0000; padding:5px; background:#ffffcc;"><b>خطا: </b>کاربر درخواست دهنده درگاه پرداخت به سطح تاييد نقره ای نرسيده است.</div>]]></value>
+      <group>modules-payment</group>
+    </definition>	
+    <definition>
+      <key>payment_zarinpal_result_error_11</key>
+      <value><![CDATA[خطا 11- : مقدار تراکنش ارسال شده با مقدار پرداختی در دروازه پرداخت مطابقت نمی کند.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_result_error_12</key>
+      <value><![CDATA[خطا 12- : زمان فعال جهت پرداخت صورت حساب طی شده و کاربر عمليات پرداخت را تکميل نکرده است.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_zarinpal_result_error</key>
+      <value><![CDATA[اطلاعات دریافتی از زرین پال معتبر نمی باشد]]></value>
+      <group>modules-payment</group>
+    </definition>		
+  </definitions>
+</language>

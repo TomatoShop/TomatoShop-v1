@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_ordering_steps_heading</key>
+      <value><![CDATA[مراحل سفارش]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_delivery</key>
+      <value><![CDATA[اطلاعات حمل و نقل]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_payment</key>
+      <value><![CDATA[اطلاعات پرداخت]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_confirmation</key>
+      <value><![CDATA[پرداخت نهايي]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_ordering_steps_complete</key>
+      <value><![CDATA[پايان!]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

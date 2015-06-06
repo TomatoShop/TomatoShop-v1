@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Wallpapers>
+  <Wallpaper>
+    <Code><![CDATA[blank]]></Code>
+    <Name><![CDATA[Blank]]></Name>
+    <Author><![CDATA[]]></Author>
+    <Url><![CDATA[]]></Url>
+    <Thumbnail><![CDATA[templates/default/desktop/wallpapers/thumbnails/blank.gif]]></Thumbnail>
+    <File><![CDATA[templates/default/desktop/wallpapers/blank.gif]]></File>
+  </Wallpaper>
+  <Wallpaper>
+    <Code><![CDATA[beautiful-sky]]></Code>
+    <Name><![CDATA[Beautiful Sky]]></Name>
+    <Author><![CDATA[]]></Author>
+    <Url><![CDATA[]]></Url>
+    <Thumbnail><![CDATA[templates/default/desktop/wallpapers/thumbnails/beautiful-sky.jpg]]></Thumbnail>
+    <File><![CDATA[templates/default/desktop/wallpapers/beautiful-sky.jpg]]></File>
+  </Wallpaper>
+  <Wallpaper>
+    <Code><![CDATA[sunset1]]></Code>
+    <Name><![CDATA[Sunset1]]></Name>
+    <Author><![CDATA[]]></Author>
+    <Url><![CDATA[]]></Url>
+    <Thumbnail><![CDATA[templates/default/desktop/wallpapers/thumbnails/sunset1.jpg]]></Thumbnail>
+    <File><![CDATA[templates/default/desktop/wallpapers/sunset1.jpg]]></File>
+  </Wallpaper>
+  <Wallpaper>
+    <Code><![CDATA[sunset2]]></Code>
+    <Name><![CDATA[Sunset2]]></Name>
+    <Author><![CDATA[]]></Author>
+    <Url><![CDATA[]]></Url>
+    <Thumbnail><![CDATA[templates/default/desktop/wallpapers/thumbnails/sunset2.jpg]]></Thumbnail>
+    <File><![CDATA[templates/default/desktop/wallpapers/sunset2.jpg]]></File>
+  </Wallpaper>  
+  <Wallpaper>
+    <Code><![CDATA[tree]]></Code>
+    <Name><![CDATA[Tree]]></Name>
+    <Author><![CDATA[]]></Author>
+    <Url><![CDATA[]]></Url>
+    <Thumbnail><![CDATA[templates/default/desktop/wallpapers/thumbnails/tree.jpg]]></Thumbnail>
+    <File><![CDATA[templates/default/desktop/wallpapers/tree.jpg]]></File>
+  </Wallpaper>  
+  <Wallpaper>
+    <Code><![CDATA[winter-sunset]]></Code>
+    <Name><![CDATA[Winter Sunset]]></Name>
+    <Author><![CDATA[]]></Author>
+    <Url><![CDATA[]]></Url>
+    <Thumbnail><![CDATA[templates/default/desktop/wallpapers/thumbnails/winter-sunset.jpg]]></Thumbnail>
+    <File><![CDATA[templates/default/desktop/wallpapers/winter-sunset.jpg]]></File>
+  </Wallpaper>  
+</Wallpapers>

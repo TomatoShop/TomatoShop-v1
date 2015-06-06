@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>customers_also_purchased_title</key>
+      <value><![CDATA[محصولات ذیل قبلا توسط مشتریان محصول فوق خریداری شده است.]]></value>
+      <group>modules-content</group>
+    </definition>
+  </definitions>
+</language>

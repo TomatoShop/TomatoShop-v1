@@ -1,0 +1,96 @@
+/*
+  $Id: login.css $
+  TomatoCart Open Source Shopping Cart Solutions
+  http://www.tomatocart.com
+  http://www.tomatoshop.ir  Persian Tomatocart v1.1.8.6 / Khordad 1394
+  Copyright (c) 2009 Wuxi Elootec Technology Co., Ltd
+
+  This program is free software; you can redistribute it and/or modify
+  it under the terms of the GNU General Public License v2 (1991)
+  as published by the Free Software Foundation.
+  
+*/
+
+html, body {
+  font: normal 12px tahoma, arial, verdana, sans-serif;
+  font-size:11px;
+  color:#ffffff;
+  background:#000000 none;
+  direction:ltr; 
+}
+
+p {
+	margin:12px 0;
+}
+a {
+	color:#ffcc33;
+}
+.key {
+	text-decoration:underline;
+}
+
+.abs-position {
+	position:absolute;
+}
+#x-login-panel {
+	background:#000000 url(images/bg-panel.jpg) no-repeat;
+	border:1px solid #000108;
+	height:510px;
+	width:798px;
+}
+
+#x-login-form {
+  right:410px;
+  top:300px;
+}
+
+.login-logo {
+	background:transparent url(images/logo.png) no-repeat;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='system/login/images/logo.png', sizingMethod='scale');
+	height:130px;
+	right:0px;
+	top:0px;
+	width:420px;
+}
+
+.login-features {
+	right:52px;
+	top:145px;
+	width:300px;
+	direction:rtl;	
+}
+
+.login-screenshot {
+	background:transparent url(images/screenshot.png) no-repeat;
+	filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='system/login/images/screenshot.png', sizingMethod='scale');
+	height:190px;
+	right:37px;
+	top:285px;
+	width:329px;
+}
+
+.login-supported {
+	right:623px;
+	top:35px;
+	direction:rtl;	
+}
+
+.x-combo-list-item{
+	color: #000000
+}
+
+.x-form-item {
+  font: normal 12px tahoma, arial, verdana, sans-serif;
+}
+.x-form-label-left label.x-form-item-label
+{
+	text-align: right;
+}
+#forget-password {
+	position: relative;
+	cursor: pointer;
+	top: 100px;
+	left: 108px;
+  color: #FFFFFF;
+  text-decoration: none;
+}

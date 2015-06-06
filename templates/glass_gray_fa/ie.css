@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+#compareProducts {
+    width: auto;
+}
+
+#compareProducts td.label
+{
+	white-space:nowrap;
+}
+
+#pageContent
+{
+	direction:ltr;
+}
+
+#checkoutForm h3 span
+{
+	top:0;
+}
+
+#checkoutForm h3 span img
+{
+	vertical-align:top;
+}
+#checkoutForm  li.collapse h3 span
+{
+	top:0;
+}
+
+#checkoutForm h3.formHeader
+{
+	position:relative;
+}
+
+#checkoutForm h3.formHeader a
+{
+	position:absolute;
+	top:0;
+	right:30px;
+}
+
+
+#headerBar ul
+{
+	display:block;	
+	width:485px;
+}

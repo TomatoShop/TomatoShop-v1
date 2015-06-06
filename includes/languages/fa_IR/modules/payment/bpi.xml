@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>payment_bpi_title</key>
+      <value><![CDATA[پرداخت اینترنتی بانک پاسارگاد]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_bpi_description</key>
+      <value><![CDATA[<div style="font-size:11px; color:#cc0000; width:500; border:1px solid #cc0000; padding:5px; background:#ffffcc;"><b>توجه: </b>وقتي شما دکمه <b>"تاييد سفارش"</b> را کليک کنيد, به صفحه بانک پاسارگاد ارجاء داده مي شويد و پس از پرداخت مبلغ سفارش مجددا به اين سايت باز گردانده مي شويد.</div>]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_bpi_method_title</key>
+      <value><![CDATA[پرداخت اینترنتی بانک پاسارگاد  (پشتیبانی از تمام کارت های عضو شبکه شتاب)]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_bpi_transaction_id</key>
+      <value><![CDATA[کد پیگیری در اینترنت: ]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_bpi_reference_id</key>
+      <value><![CDATA[و کد پیگیری در شبکه بانکی: ]]></value>
+      <group>modules-payment</group>
+    </definition>	
+    <definition>
+      <key>payment_bpi_unsuccessful_payment</key>
+      <value><![CDATA[پرداخت انجام نشده است.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_bpi_contradictory_in_information</key>
+      <value><![CDATA[در اطلاعات ارسال شده توسط بانک و اطلاعات موجود در فروشگاه تناقض وجود دارد.]]></value>
+      <group>modules-payment</group>
+    </definition>
+    <definition>
+      <key>payment_bpi_payment_not_confirmed</key>
+      <value><![CDATA[در تایید پرداخت خطایی رخ داده است ، در صورت کسر وجه از حساب شما با مدیر سایت تماس بگیرید.]]></value>
+      <group>modules-payment</group>
+    </definition>	
+  </definitions>
+</language>

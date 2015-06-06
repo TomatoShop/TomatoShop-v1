@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_tell_a_friend_heading</key>
+      <value><![CDATA[معرفي به يک دوست]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_tell_a_friend_text</key>
+      <value><![CDATA[اين محصول را به دوستتان معرفي كنيد.]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>

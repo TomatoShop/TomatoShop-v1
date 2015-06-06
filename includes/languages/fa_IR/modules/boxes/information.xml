@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+  <definitions>
+    <definition>
+      <key>box_information_heading</key>
+      <value><![CDATA[اطلاعات]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_information_privacy</key>
+      <value><![CDATA[اطلاعيه ها]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_information_conditions</key>
+      <value><![CDATA[قوانين فروشگاه]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_information_shipping</key>
+      <value><![CDATA[حمل و نقل]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_information_bank_receipt</key>
+      <value><![CDATA[ثبت فیش بانکی]]></value>
+      <group>modules-boxes</group>
+    </definition>	
+    <definition>
+      <key>box_information_contact</key>
+      <value><![CDATA[ارتباط با ما]]></value>
+      <group>modules-boxes</group>
+    </definition>
+    <definition>
+      <key>box_information_sitemap</key>
+      <value><![CDATA[نقشه سايت]]></value>
+      <group>modules-boxes</group>
+    </definition>
+  </definitions>
+</language>
