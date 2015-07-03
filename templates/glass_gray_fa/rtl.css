@@ -489,3 +489,7 @@ ul.autocompleter-choices .more .button{
 	font-family: Tahoma;
 	font-size:11px;
 }
+dl.review p{
+	padding-left: 5px;
+    word-break: break-all;
+}
